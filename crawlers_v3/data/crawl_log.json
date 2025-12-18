@@ -1,0 +1,286 @@
+{
+  "start_time": "2025-12-18T09:25:31.633142",
+  "queries": [
+    {
+      "query": "서울 스페셜티 커피",
+      "found": 10,
+      "added": 8,
+      "skipped": 2
+    },
+    {
+      "query": "서울 로스터리 카페",
+      "found": 10,
+      "added": 7,
+      "skipped": 3
+    },
+    {
+      "query": "서울 핸드드립 카페",
+      "found": 10,
+      "added": 8,
+      "skipped": 1
+    },
+    {
+      "query": "강남 스페셜티",
+      "found": 10,
+      "added": 8,
+      "skipped": 2
+    },
+    {
+      "query": "강남 로스터리",
+      "found": 10,
+      "added": 5,
+      "skipped": 4
+    },
+    {
+      "query": "역삼 스페셜티",
+      "found": 10,
+      "added": 4,
+      "skipped": 3
+    },
+    {
+      "query": "압구정 로스터리",
+      "found": 10,
+      "added": 5,
+      "skipped": 3
+    },
+    {
+      "query": "청담 스페셜티",
+      "found": 10,
+      "added": 6,
+      "skipped": 2
+    },
+    {
+      "query": "신사동 로스터리",
+      "found": 10,
+      "added": 2,
+      "skipped": 3
+    },
+    {
+      "query": "삼성동 스페셜티",
+      "found": 10,
+      "added": 3,
+      "skipped": 3
+    },
+    {
+      "query": "서초 스페셜티",
+      "found": 10,
+      "added": 7,
+      "skipped": 3
+    },
+    {
+      "query": "양재 로스터리",
+      "found": 10,
+      "added": 6,
+      "skipped": 4
+    },
+    {
+      "query": "반포 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 1
+    },
+    {
+      "query": "송파 스페셜티",
+      "found": 10,
+      "added": 7,
+      "skipped": 3
+    },
+    {
+      "query": "잠실 로스터리",
+      "found": 10,
+      "added": 5,
+      "skipped": 4
+    },
+    {
+      "query": "합정 스페셜티",
+      "found": 10,
+      "added": 8,
+      "skipped": 2
+    },
+    {
+      "query": "합정 로스터리",
+      "found": 0,
+      "added": 0,
+      "skipped": 0
+    },
+    {
+      "query": "망원 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 5
+    },
+    {
+      "query": "연남동 로스터리",
+      "found": 10,
+      "added": 7,
+      "skipped": 2
+    },
+    {
+      "query": "홍대 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 4
+    },
+    {
+      "query": "상수 로스터리",
+      "found": 10,
+      "added": 5,
+      "skipped": 4
+    },
+    {
+      "query": "연희동 스페셜티",
+      "found": 10,
+      "added": 9,
+      "skipped": 0
+    },
+    {
+      "query": "용산 스페셜티",
+      "found": 10,
+      "added": 10,
+      "skipped": 0
+    },
+    {
+      "query": "이태원 로스터리",
+      "found": 10,
+      "added": 8,
+      "skipped": 1
+    },
+    {
+      "query": "한남동 스페셜티",
+      "found": 10,
+      "added": 3,
+      "skipped": 1
+    },
+    {
+      "query": "성수 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 3
+    },
+    {
+      "query": "성수 로스터리",
+      "found": 10,
+      "added": 6,
+      "skipped": 2
+    },
+    {
+      "query": "뚝섬 스페셜티",
+      "found": 10,
+      "added": 4,
+      "skipped": 1
+    },
+    {
+      "query": "서울숲 로스터리",
+      "found": 10,
+      "added": 2,
+      "skipped": 2
+    },
+    {
+      "query": "건대 스페셜티",
+      "found": 10,
+      "added": 2,
+      "skipped": 6
+    },
+    {
+      "query": "자양동 로스터리",
+      "found": 10,
+      "added": 3,
+      "skipped": 2
+    },
+    {
+      "query": "종로 스페셜티",
+      "found": 10,
+      "added": 9,
+      "skipped": 1
+    },
+    {
+      "query": "익선동 로스터리",
+      "found": 10,
+      "added": 7,
+      "skipped": 1
+    },
+    {
+      "query": "서촌 스페셜티",
+      "found": 0,
+      "added": 0,
+      "skipped": 0
+    },
+    {
+      "query": "북촌 로스터리",
+      "found": 10,
+      "added": 4,
+      "skipped": 2
+    },
+    {
+      "query": "을지로 스페셜티",
+      "found": 10,
+      "added": 8,
+      "skipped": 0
+    },
+    {
+      "query": "명동 로스터리",
+      "found": 10,
+      "added": 4,
+      "skipped": 2
+    },
+    {
+      "query": "영등포 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 4
+    },
+    {
+      "query": "문래 로스터리",
+      "found": 10,
+      "added": 6,
+      "skipped": 4
+    },
+    {
+      "query": "여의도 스페셜티",
+      "found": 10,
+      "added": 3,
+      "skipped": 4
+    },
+    {
+      "query": "관악구 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 2
+    },
+    {
+      "query": "샤로수길 로스터리",
+      "found": 10,
+      "added": 5,
+      "skipped": 4
+    },
+    {
+      "query": "성북구 스페셜티",
+      "found": 10,
+      "added": 5,
+      "skipped": 5
+    },
+    {
+      "query": "혜화 로스터리",
+      "found": 10,
+      "added": 7,
+      "skipped": 2
+    },
+    {
+      "query": "노원 스페셜티",
+      "found": 10,
+      "added": 4,
+      "skipped": 5
+    },
+    {
+      "query": "강동 로스터리",
+      "found": 10,
+      "added": 6,
+      "skipped": 4
+    }
+  ],
+  "errors": [],
+  "skipped_no_menu": 116,
+  "end_time": "2025-12-18T14:52:47.733969",
+  "total_stores": 246,
+  "total_menus": 1464
+}

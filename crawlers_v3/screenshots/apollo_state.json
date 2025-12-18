@@ -1,0 +1,1940 @@
+{
+  "BusStation:193701": {
+    "__typename": "BusStation",
+    "displayCode": "04253",
+    "id": "193701",
+    "innerRoutes": {
+      "__typename": "InnerRoutes",
+      "routeType": [
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:576"
+            },
+            {
+              "__ref": "InnerRoute:11036997"
+            }
+          ],
+          "type": "11",
+          "typeName": "간선"
+        },
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:522"
+            }
+          ],
+          "type": "12",
+          "typeName": "지선"
+        }
+      ]
+    },
+    "lat": 37.5448177,
+    "lng": 127.0547592,
+    "name": "성수역4번출구",
+    "walkTime": 4,
+    "walkingDistance": 247
+  },
+  "BusStation:196459": {
+    "__typename": "BusStation",
+    "displayCode": "04569",
+    "id": "196459",
+    "innerRoutes": {
+      "__typename": "InnerRoutes",
+      "routeType": [
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:1531"
+            }
+          ],
+          "type": "3",
+          "typeName": "마을"
+        }
+      ]
+    },
+    "lat": 37.544784,
+    "lng": 127.0548769,
+    "name": "지하철2호선성수역",
+    "walkTime": 4,
+    "walkingDistance": 237
+  },
+  "BusStation:197895": {
+    "__typename": "BusStation",
+    "displayCode": "04240",
+    "id": "197895",
+    "innerRoutes": {
+      "__typename": "InnerRoutes",
+      "routeType": [
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:576"
+            },
+            {
+              "__ref": "InnerRoute:11036997"
+            }
+          ],
+          "type": "11",
+          "typeName": "간선"
+        },
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:522"
+            },
+            {
+              "__ref": "InnerRoute:968"
+            }
+          ],
+          "type": "12",
+          "typeName": "지선"
+        },
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:1531"
+            }
+          ],
+          "type": "3",
+          "typeName": "마을"
+        }
+      ]
+    },
+    "lat": 37.5454102,
+    "lng": 127.0538262,
+    "name": "성수역1번출구",
+    "walkTime": 7,
+    "walkingDistance": 427
+  },
+  "BusStation:89495": {
+    "__typename": "BusStation",
+    "displayCode": "04862",
+    "id": "89495",
+    "innerRoutes": {
+      "__typename": "InnerRoutes",
+      "routeType": [
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:603"
+            }
+          ],
+          "type": "3",
+          "typeName": "마을"
+        }
+      ]
+    },
+    "lat": 37.5435442,
+    "lng": 127.0567215,
+    "name": "성수역3번출구",
+    "walkTime": 6,
+    "walkingDistance": 342
+  },
+  "BusStation:92475": {
+    "__typename": "BusStation",
+    "displayCode": "04855",
+    "id": "92475",
+    "innerRoutes": {
+      "__typename": "InnerRoutes",
+      "routeType": [
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:603"
+            }
+          ],
+          "type": "3",
+          "typeName": "마을"
+        }
+      ]
+    },
+    "lat": 37.5414146,
+    "lng": 127.0539957,
+    "name": "서울숲코오롱디지털타워2차",
+    "walkTime": 4,
+    "walkingDistance": 230
+  },
+  "BusStation:92477": {
+    "__typename": "BusStation",
+    "displayCode": "04856",
+    "id": "92477",
+    "innerRoutes": {
+      "__typename": "InnerRoutes",
+      "routeType": [
+        {
+          "__typename": "RouteType",
+          "innerRoute": [
+            {
+              "__ref": "InnerRoute:603"
+            }
+          ],
+          "type": "3",
+          "typeName": "마을"
+        }
+      ]
+    },
+    "lat": 37.5401675,
+    "lng": 127.0547085,
+    "name": "서울경찰청제6기동단",
+    "walkTime": 6,
+    "walkingDistance": 361
+  },
+  "FsasReview:blog_뉴니의 스윗홈_224106920446_반자동 원두 커피머신 추천, &#39;브레빌 성수&#39;에서 배우기!": {
+    "__typename": "FsasReview",
+    "authorName": "김뉴니",
+    "buyWithMyMoneyType": null,
+    "bySmartEditor3": false,
+    "bypassToken": null,
+    "contents": "반자동 원두 커피머신 추천, '브레빌 성수'에서 배우기! 제가 얼마 전에 드롱기 라스페셜리스타를 샀잖아요. 친한 동생이 커피 맛보더니 반자동 커피머신에 완전 빠져서 알아보다가 브레빌을 사기로 했거든요. 최종 모델 선택 전에 브레빌 커피머신에 대해 자세히 설명해 주는 곳이 있다고 해서 예약하고 찾아갔어요. 브레빌 카페앤스토어 성수, 어떤 곳? 이곳은 성수 카페 + 브레빌 제품 상담 및 체험 + 클래스를 한 곳에서 할 수 있는 곳이에요. 브레빌이 이런 고객서비스는 정말 제대로 잘 하는 것 같아요. 1층과 2층은 카페 공간이고요, 3층은 루프탑이에요. 저희는 브레빌 제품 상담으로 미리 예약을 하고 방문했는데 지하로 내려가면 됩니다. 브레빌 성수에서 반자동 원두 커피머신 '제대로' 배우기! 와... 이곳은 들어가자마자 감탄이 나오는데요! 브레빌의 수많은 제품들이 라인별로 진열이 되어 있고, 정말 갖고 싶은 커피머신이 많았어요. 저도 지금 한창 반자동 원두커피 머신에 빠져있어서 얼마 전에도 커피 클래스를 다녀왔거든요! 새로운 기계 또 알아보는 게 너무 재미있을 거 같아서 기대가 되었답니다. 반자동 원두 커피머신 추천, 어떤 게 좋은 거예요? 사실 우리가 궁금한 게 그거잖아요. \"어떤 커피머신이 커피가 맛있어요???\" 이건데... 제가 이날 상담을 받고 큰 깨달음을 하나 얻었어요. 상위 등급의 커피머신과 그보다 하위 등급의 커피머신 중 어떤 것이 맛있는 커피를 내리는가, 이 질문은 의미가 없어요. 왜냐면 커피의 맛은 같은 원두와 같은 기계를 써도 분쇄도와 다양한 변수로 인해 맛이 다 다르게 나거든요. 이제 그건 확실히 알아요. 그래서 카페에서도 내리는 사람에 따라 다 다른 맛의 커피가 나잖아요. 커피머신의 등급은 내가 얼마나 덜 귀찮고 자동화 시켜서 커피를 내릴 수 있느냐! 그것의 문제였어요. 진짜 큰 깨달음이에요. 어느 과정까지 기계가 알아서 해줄 것인가 여기에 따라 가격이 달라지는 거예요. 그래서 결론은, 나는 나만의 레시피를 요리조리 찾아가는 것에 큰 즐거움을 느끼고 다양하게 커스텀 해서 커피를 내려서 마셔보고 싶다! 하면 거기에 맞는 머신을 고르면 돼요. 나는 다 귀찮다. 모든 것이 AI가 알아서 자동화해줬으면 좋겠다 하는 분들은 그에 맞는 머신을 선택하시면 되는 것입니다. 지금 브레빌에서 가장 상위 모델이 AI가 다 알아서 해주는 모델이거든요. 제 친구가 얼마 전에 이 상위 모델을 구입했었는데 처음엔 편해서 좋았는데 지금은 다양한 커스텀을 할 수 없는 부분이 아쉽다고 했어요. 이렇게... ",
+    "createdString": "12.12.금",
+    "date": "6일 전",
+    "hasNaverReservation": false,
+    "home": "https://m.blog.naver.com/ararar0625",
+    "id": "blog_뉴니의 스윗홈_224106920446_반자동 원두 커피머신 추천, &#39;브레빌 성수&#39;에서 배우기!",
+    "isOfficial": false,
+    "isRepresentative": false,
+    "isVideoThumbnail": false,
+    "name": "뉴니의 스윗홈",
+    "profileImageUrl": "http://blogpfthumb.phinf.naver.net/MjAyNTEyMTZfMjE5/MDAxNzY1ODc1MjM3MjMz.HPi6HEnCWvoikX1Aqyrowb_aoNteaVGF5-jNl9DRPHEg.M_UNgvc5Z-_1uEpoutR0qvVhV5L4SxNfW-NkW20RCHYg.JPEG/profileImage.jpg",
+    "rank": "1",
+    "reviewId": "224106920446",
+    "thumbnailCount": "13",
+    "thumbnailUrl": "http://blogfiles.naver.net/MjAyNTEyMTJfMTIw/MDAxNzY1NTAwODA3NzIy.SeuUOlqOpREHakunch_VAbrm3yK2CHXIODU_kOqO2S4g.-iR58q4k00ppV9u_rwVV4iFmE3kSM1Iha4tCPLKQZUog.JPEG/900%A3%DF20251209%A3%DF135544.jpg#900x1599",
+    "thumbnailUrlList": [
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMTIw/MDAxNzY1NTAwODA3NzIy.SeuUOlqOpREHakunch_VAbrm3yK2CHXIODU_kOqO2S4g.-iR58q4k00ppV9u_rwVV4iFmE3kSM1Iha4tCPLKQZUog.JPEG/900%A3%DF20251209%A3%DF135544.jpg#900x1599",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTc4/MDAxNzY1MzY3MjE5ODI5.5WasBYSurijNnVPNi_AZonppC8Bu85q9ay62pbWd0FIg.VRBb5wfsG_cVkCb1mPaHxpLVuwG7DT9dei-7dvQC8pwg.GIF/se%A3%DFone%A3%DFani%A3%DF20251210%A3%DF204656%A3%DFa.gif#281x500#g",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMTc4/MDAxNzY1NTAwODA4OTYw.AX4udmWvJYPyJ57kQYjnuv1ZDqNYabixXlRhQ7iNkjog.I94AYcSA5HsShvx2VIG54CwbL5m5Xsx5kSULF44t9fMg.JPEG/900%A3%DF20251209%A3%DF135538.jpg#836x1485",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfNzUg/MDAxNzY1NTAwODEwMjM3.5R3zpgCbY4whHFS1Qn5xqz1I6-B3SupVNasP9iN0qcAg.ap90zp_H5oHMLuNsh8iHyky-ktH7p9-m9OXsRZtw5-Eg.JPEG/900%A3%DF20251209%A3%DF135620.jpg#900x1599",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMjk0/MDAxNzY1NTAwODExNTEw.fUKtC5O1SXNEJM2tzAdb_bdvqjS3trN2xTcoFC7jPh8g.EccKpZfsgeOHoGkJZhlwWFhRPlR7wVJ3jZKDz3GI4Qgg.JPEG/900%A3%DF20251209%A3%DF144809.jpg#900x1200",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfNTcg/MDAxNzY1NTAwODEyNDgy.ASrZZ1V9JMbU5OQWT-dfqYrTzCN2pqgLFkVJBZWNE_cg.xrkRPjtcPF3_AD8-KZb1oZc6rgGQGEkqp7xRh9kWUSYg.JPEG/900%A3%DF20251209%A3%DF144811.jpg#900x1200",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMjMx/MDAxNzY1NTAwODEzNTIw.DpWPWONevRZIR5W72nHv1-B3IiRno_9z8cAib2E6jVcg.Z932q1CJiGPh8doM1BsxUNqlBSEJcXxQ9_MaXHDc8bQg.JPEG/900%A3%DF20251209%A3%DF135904.jpg#900x1200",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMTA2/MDAxNzY1NTAwODE0NjQ5.qqesSaTkLT_jgydh0pGWroxn1lOpZ1OgrSTaDsJr-XQg.sclYwmZarkarvOASrBkFuKCbCE_Deh6Tns5947DKUwcg.JPEG/900%A3%DF20251209%A3%DF140113.jpg#900x1599",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMjcx/MDAxNzY1NTAwODE1OTQx.OljPIVldgcGXc9WZS0eEXVbTvtS9mOGjrjb0AZSaMt8g.jklyhP38o7j7SJhyjmILeZ_KxD0yxx9sy3I0LFGaI1cg.JPEG/900%A3%DF20251209%A3%DF140325.jpg#900x1599",
+      "http://blogfiles.naver.net/MjAyNTEyMTJfMTIz/MDAxNzY1NTAwODE3MzI3.gN_LTJw5-L4eMBXpEH62nZLVPGXxlsjbW4Fc68O0YAYg.K0xWft6aY-bar9TdqE7317TBPMNOW6n69ZIwkDtCCzMg.JPEG/900%A3%DF20251209%A3%DF140330.jpg#900x1599"
+    ],
+    "title": "반자동 원두 커피머신 추천, &#39;브레빌 성수&#39;에서 배우기!",
+    "type": "blog",
+    "typeName": "블로그",
+    "url": "https://m.blog.naver.com/ararar0625/224106920446"
+  },
+  "FsasReview:blog_신혼부부의 일상여행기_224104593572_신혼일기 5개월차": {
+    "__typename": "FsasReview",
+    "authorName": "근지",
+    "buyWithMyMoneyType": null,
+    "bySmartEditor3": false,
+    "bypassToken": null,
+    "contents": "신혼일기 6월초 아파트 매매 계약 6월 중순 계약서 작성 6월 22일 대출접수 7월말부터 작은 인테리어 공사 8월 중순 입주! 아직도 고치고 싶은게 산더미다. 이제는 셀프로 필름에 도전! 퇴근하고 작업해서 한달내로 마무리하는게 목표!! (방문3개, 신발장, 펜트리) 예상예산 10만원 플라이밀 돌체라떼후기 드레스 투어 간다고 나름 저녁을 조절했다 오필리 잔소리를 먹다가 플라이밀 돌체라떼를 이번에 처음 먹어봤다. (스벅 돌체 생각하고 먹으면 별로다) 내 기준 그냥 먹을만했다. 카페인이 소량 들어있다 어느 주말에 갔던 에스프레소카페 주방 걸이형 휴지통 다이소에서 산 천원짜리 쓰다가 2주만에 내구성이 떨어지고 불편했는데 이마트 갔다가 편해보이는게 있어서 들였다! (아주 깔끔하고 완전 편함) 브레빌 밤비노 아직도 테스트 중인 커피머신! 나랑 예랑이의 입맛이 달라서 매주 다른 스타일의 원두를 사 먹는 중 나는 산미가 적당히 있는 원두파 예랑이는 산미없는 고소한 원두파 집들이1 예랑이의 찐친 집들이 음식 준비만 6시간을 했다. 힘들긴했지만 재밌었다. 나름 뿌듯함 젤다의전설 레고 결혼선물? 집들이 선물로 받은 젤다의 전설 레고,,,,,,, (내눈에는 죽어기는 벚꽃나무 같다....) 나무 색깔이 맘에 안든다 혼주한복 맞추러 방문! 두분의 스타일이 달랐다..... 그치만 우리눈에 예쁜걸로 강력히 밀었다 방 바꾸기 작은방과 안방을 바꿨다. 드넓은 안방에서 잠만자는데 넓을 필요가 1도 없다. 큰방은 이제 취미방! 다시 구조를 잘 만들어보자 책상 새로 사고싶다아...! 작은방으로 침대와 서랍장을 옮기니 아주 아늑하고 좋다 집에 방문을 닫고 다니니 온도 유지가 잘된다!! (보일러를 켜두지 않아도 온도가 1도 정도밖에 안내려간다) 시간 있을때 일부 청첩장 봉투작업!! (공장가동) 마녀스프 내 스타일 전혀 아닌 마녀스프...... (이걸 왜 먹을만하다고 먹는지 모르겠다) 눈길 사고 결과는 폐차 갑자기 눈내린날,,, 예랑이는 할머니 폰을 전달한다고 인천에 갔는데 엄마가 사고가 났다해서 모시러 갔다가 2차사고를 당하고 차가 저렇게 돌았다.. 이래저래 결국 폐차 집들이 2 내 남사친인데 예랑이랑 찐친이 되었다.. 둘다 취해서 손 잡고 연애상담시작 위스키 한병반을 비웠다. (그나저나 조니워커블랙 하이볼 존맛) 이제 제임슨 하이볼 못먹는다 스타일러 삼촌한테 선물받은 스타일러! 스타일러가 이렇게 비싼지 몰랐다.. 베스트샵 갔다가 뒤돌아 나왔는데 삼촌이 다시가서 내가 맘에 들어하던 색으로 주문해주셨다❣️ 책상에 너저분하게... ",
+    "createdString": "12.10.수",
+    "date": "2025.12.10.",
+    "hasNaverReservation": false,
+    "home": "https://m.blog.naver.com/travelerhoo",
+    "id": "blog_신혼부부의 일상여행기_224104593572_신혼일기 5개월차",
+    "isOfficial": false,
+    "isRepresentative": false,
+    "isVideoThumbnail": false,
+    "name": "신혼부부의 일상여행기",
+    "profileImageUrl": "http://blogpfthumb.phinf.naver.net/MjAyMjEyMTRfMTc5/MDAxNjcwOTcwMjkwNzA5.VEtdMNKMg-4D9WbArRS3L0vIQjZxFcfVWc9yJK67Mdkg.3_Zl-k8YSzT1DA5-tBE7gp0oHlT27FmpiwOujmpOP7Yg.JPEG.libertydls/profileImage.jpg",
+    "rank": "3",
+    "reviewId": "224104593572",
+    "thumbnailCount": "28",
+    "thumbnailUrl": "http://blogfiles.naver.net/MjAyNTEyMTBfMTY0/MDAxNzY1MzI2MzE0NTMy.bt5GAc2zLP_I2q6jv6iUG_QBRKJZf4oCPywyWQx64UIg.eLWseYsSazWygAxYzdPzTY0co0ecUIWmsk4pUNNRP_sg.JPEG/740%A3%DF20251203%A3%DF200641.jpg#740x555",
+    "thumbnailUrlList": [
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTY0/MDAxNzY1MzI2MzE0NTMy.bt5GAc2zLP_I2q6jv6iUG_QBRKJZf4oCPywyWQx64UIg.eLWseYsSazWygAxYzdPzTY0co0ecUIWmsk4pUNNRP_sg.JPEG/740%A3%DF20251203%A3%DF200641.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMjkg/MDAxNzY1MzI2MzEyMzIy.qIHG2TPPq6e7xbbtqN77PsaJa6YTsT8-UvQC7zS6pSQg.cBONmCAdg_dOBlGKMikVfPY2MRx2aEXG2URNsq1bl9Ag.JPEG/1763376279773.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTQ0/MDAxNzY1MzI2MzExNDk4.SIE2exeQKLnNTSCTHlRkLE-FWH-hmOqHEDYpd7hydRUg.kbH5A_EsRf33OjY0GDaj38FEBO7JS2kwffOuTs6vxy4g.JPEG/740%A3%DF20251118%A3%DF072445.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTYg/MDAxNzY1MzI2MzE1MTcz.sAekjSqyLzmh_BGwRVlWcousWHZBUDql7S1zU6b2-kgg.VoAPbirP9p7RNpRUrCHTOEtlocA09blymLFMc0MRPK8g.JPEG/740%A3%DF20251122%A3%DF092600.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfOSAg/MDAxNzY1MzI2MzEzNzM1.9MNxrVyDWQjMlpWpvOU3sSGnu2V6W1unHuEO8JBbC0Eg.w5hHLitjOnIeiGNPmANa3tPnMCAB91Drv7uUD3qmFAEg.JPEG/740%A3%DF20251122%A3%DF102824.jpg#740x987",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTk1/MDAxNzY1MzI2MzEyOTA3.FMop28Pifp_P9UlyOP57vdpRe-X_c5xOp3lhEk0elAcg.XXuIFYGdSVYj2blT56IrvkQnN7t7boQYxhDNbcIgq-0g.JPEG/740%A3%DF20251123%A3%DF114959.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfNDMg/MDAxNzY1MzI2MzEwNDA0.LJLxs5p44mLuZJOZTC2xqzT2XnCZWbFlxNc5tDB9-PMg.1iFal8QSY3g3vamcjIHj5YQp8eDaEklk0hSPZUoLEuAg.JPEG/740%A3%DF20251122%A3%DF122258.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTQ4/MDAxNzY1MzI2MzE1MDg3.wyWUq7g0iwHl-vn7fisAoNcN0neLRP8Ph3itfLX0orYg.siLipphE1Oi6LaYAk9kGgX_2BmbWur-SN1hZkZT3GgAg.JPEG/740%A3%DF20251122%A3%DF172118.jpg#740x555",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfMTc1/MDAxNzY1MzI2Nzc2MjE4.MO_aMXSAl-FzZP3vggURWyxVp4j9GU3W9_pvmuUWyfcg.vpez0bl7FB0zSuhceVR5Thka6pzqdth-gHWIbar2ltwg.JPEG/1765326691930.jpg#414x416",
+      "http://blogfiles.naver.net/MjAyNTEyMTBfNTgg/MDAxNzY1MzI2MzEzNTA3.lsVUJjvKV5x33vNGFBBqVbYRg34Fn1P60hnUlZltLW4g.1dOUTpsJ8Xho3rkQVUjpstqlPS62mURH40vnfJ3ZBIAg.JPEG/740%A3%DF20251123%A3%DF112711.jpg#740x555"
+    ],
+    "title": "신혼일기 5개월차",
+    "type": "blog",
+    "typeName": "블로그",
+    "url": "https://m.blog.naver.com/travelerhoo/224104593572"
+  },
+  "FsasReview:blog_쟈넷의 오페라 씨티_224075913106_브레빌 카페앤스토어 성수점": {
+    "__typename": "FsasReview",
+    "authorName": "쟈넷 Janet",
+    "buyWithMyMoneyType": null,
+    "bySmartEditor3": false,
+    "bypassToken": null,
+    "contents": "#브레빌카페앤스토어 #브레빌 성수동에서 돌아다니다가 나는 괜찮은데 ㅎㅎ 친구님과 아드님이 매우 힘들어하셔서 저길 갑시다! 하고 들어간 카페 평소엔 사람이 북적이는 곳 같은데 우리가 들어간 시점에 운좋게 자리가 있어서 편안하게 이용했다. 장점 : 가격이나 맛이나 딱 기대만큼. 나름 세련모던한 인테리어 단점 : 의자와 테이블 매우 불편. 양은 적다. 바로 앞이 굴뚝처럼 담배피우는 골목이라 짜증난다. 가는 길에 만난 시음대 예쁘장한 남자애들에게 한복 비스무리를 입히는 게 요즘 트렌드인가봄 브레빌 1층 여긴 1층에 주문하는 곳과 남자화장실, 작은 좌석이 두개쯤 있고, 2층에 좌석과 여자화장실, 3층에 루프탑이 있는 듯 루프탑은 안 가봤다. 매우 트렌디한 느낌... 그게 그러니까... 요즘 스타일이네 ㅎㅎ 빵이 정말 별거 없어서 약간 실망했고... 커피는 좋지도 나쁘지도 않음 시그니처 해수염 커피를 마셨는데 뭐, 딱 기대만큼의 맛이었다. 친구 아드님은 에이드 동동군은 빵을 주고, 나는 크림커피를 마셨지... 소금이 자기주장 좀 강한 편 (짜다는 뜻 ㅋㅋ) 어른들이 수다 떠는 동안 아이들은 말 한마디 없이 각자의 게임을 하는 풍경 브레빌 뒤에는... 아까 그 인형탈 알바들이 벗어놓은 인형들이 즐비했다. 디즈니가 보았다면 거품을 물었을 광경 ㅋㅋㅋㅋㅋㅋㅋㅋ 아니; 근데, 꼭 디즈니가 아니라도 어디 좀 탈의실이라도 마련해주지 저게 뭐냐;;; 다양한 인형으로 다양한 그라운드를 커버하는 건 알겠는데 좀 심각했다;;; 관리좀 했으면 ㅎㅎ 브레빌 커피는 그냥 가격도 맛도 평범했고, 빵도 나쁘지는 않다. 정도 마들렌은 두 개에 6천원이라 괜찮다고 느꼈다. 오렌지에이드는 양이 좀 적지만 맛은 나쁘지 않다고 한다. 뭐... 커피 좀 오래 걸린다고 안내도 되어 있고... 가정용 반자동 머신은 뭐지;;; 뭐 이런저런 커피 설명도 써 있다. 나중에 또 경험해본다면 이쪽으로... 인테리어나 기물등은 딱 요즘커피의 스탠다드 느낌 여기저기 다녀보면서 느낀 건데 커피와 커피하우스들이 상향평준화되어서 엣지가 사라진 느낌을 받아버리게 되었다. ㅎㅎ 우리나라만 그런게 아니고 미국이랑 일본 갔을 때 카페들도 그랬다. '카페'라는 것이 '스탠다드'하게 발전해가는 느낌 스탠다드는 안전한 경험을 제공하지만 거꾸로 말하면 재미없... 프랜차이즈가 아닌 인디커피하우스의 느낌마저 획일적이 되어가다니... 대체로 세련되고 모던한 감각을 추구하다보니 그런 느낌이기도 한데, 그냥 이 정도 커피하우스를 발견하면, 합격이구나.. 정도의 감상을... ",
+    "createdString": "11.17.월",
+    "date": "2025.11.17.",
+    "hasNaverReservation": false,
+    "home": "https://m.blog.naver.com/janet7711",
+    "id": "blog_쟈넷의 오페라 씨티_224075913106_브레빌 카페앤스토어 성수점",
+    "isOfficial": false,
+    "isRepresentative": false,
+    "isVideoThumbnail": false,
+    "name": "쟈넷의 오페라 씨티",
+    "profileImageUrl": "http://blogpfthumb.phinf.naver.net/20100204_135/janet7711_1265273079472_hMRzZ5_jpg/200112271-001.jpg",
+    "rank": "2",
+    "reviewId": "224075913106",
+    "thumbnailCount": "13",
+    "thumbnailUrl": "http://blogfiles.naver.net/MjAyNTExMTRfOTUg/MDAxNzYzMDk4NzY1ODM5.L2CHliLzriBuhfEsqMDs6F36MDc5isEqB1WGtQ-foucg.mFeQMGPAU9CULpSwAgWnd-cfXkfrg-W2AvCCfC-nEPkg.JPEG/KakaoTalk_20251113_161615866_26.jpg#3024x4032",
+    "thumbnailUrlList": [
+      "http://blogfiles.naver.net/MjAyNTExMTRfOTUg/MDAxNzYzMDk4NzY1ODM5.L2CHliLzriBuhfEsqMDs6F36MDc5isEqB1WGtQ-foucg.mFeQMGPAU9CULpSwAgWnd-cfXkfrg-W2AvCCfC-nEPkg.JPEG/KakaoTalk_20251113_161615866_26.jpg#3024x4032",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMjUg/MDAxNzYzMDk4NzY2MTk4.Ikc6ELlqKFXr2AKcZ73Y7WXP7B8-zo3WBRferk4zh_og.TmSpFMjH6Zk1ue57kbsdZknqnQxGufVatPWMjI8VDXQg.JPEG/KakaoTalk_20251113_161615866_27.jpg#4284x5712",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMjM5/MDAxNzYzMDk4NzY1NTY5.gKeVe2K-ceu7bBaeTJOjDDnrM7-GyAZ9Vz-9qe_7aJsg.l9Fdssc-VtFT-1Sz2fEtwXz_UluFyq21zTaUMXSMW64g.JPEG/KakaoTalk_20251113_161615866_28.jpg#3024x4032",
+      "http://blogfiles.naver.net/MjAyNTExMTRfOTEg/MDAxNzYzMDk4NzY2MTEz.CB97dbMct-wh8FygpwXIZeOx4ryqAftNMGg2UXxvsqEg.6LEZaBzIp-XQJ_QYcj_H8mfyNiVG6cSTjlVbFZLS-Y0g.JPEG/KakaoTalk_20251113_161615866_29.jpg#3024x4032",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMTUx/MDAxNzYzMDk4NzYwNDg4.0kOascw7n9OiaVlSKs3kqmjY_OK0sjBxHU-b2vwREQEg.OpDDtcfjg744siHJZx_gUgqSDx-hNz12iy2HSRlKUREg.JPEG/KakaoTalk_20251113_161932834.jpg#3024x4032",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMjQg/MDAxNzYzMDk4NzY2NDcy.OyCDp0Evjw2XPDDMRwRigU5hZNzMcQE9rmFkkJyyHAgg.gqMQZ962QPN3AODFKnSnuHg9ITUeiPZxXFP3-M4hom0g.JPEG/KakaoTalk_20251113_161932834_01.jpg#4284x5712",
+      "http://blogfiles.naver.net/MjAyNTExMTRfNjkg/MDAxNzYzMDk4NzcyNzkw.fq3T-DYZMcsixPD3mbzvl0RM99rh5EG5McwWVtV-kJQg.d8yKGGGSDc0EpKDI-GNzUzZoNetu0XM5OQWRIAeGoPcg.JPEG/KakaoTalk_20251113_161932834_02.jpg#4284x5712",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMTQ4/MDAxNzYzMDk4NzY3MzU3.edUpV40AK4p6evvIPnBSg-vWJm2ubiu8JQehWds-Sv0g.tZT0otM41OhXiOrcwXgvIVpNY8ric561PhUnk3bX7egg.JPEG/KakaoTalk_20251113_161932834_03.jpg#4284x5712",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMTM1/MDAxNzYzMDk4NzcxMzQz.joaHC0Q4twN-CuBqB92PVlagEMTIt1XM_ysZOD30Fjwg.xojtEb1fB0luFrbQ1-3eeryP99K2k73bExdvGDwMJDAg.JPEG/KakaoTalk_20251113_161932834_04.jpg#3024x4032",
+      "http://blogfiles.naver.net/MjAyNTExMTRfMTgx/MDAxNzYzMDk4NzcyNjYw.nFn7yVjJ-v1sUSasgBsadNUVmgSRLqiejWmYzdiCgggg.Mjnr5Fgpy5NoRNpgpUZtx_A8jAWaIczck8YwH01f_A0g.JPEG/KakaoTalk_20251113_161932834_05.jpg#4284x5712"
+    ],
+    "title": "브레빌 카페앤스토어 성수점",
+    "type": "blog",
+    "typeName": "블로그",
+    "url": "https://m.blog.naver.com/janet7711/224075913106"
+  },
+  "InformationFacilities:211": {
+    "__typename": "InformationFacilities",
+    "i18nName": "테이크아웃 할인",
+    "id": "211",
+    "name": "테이크아웃 할인"
+  },
+  "InformationFacilities:212": {
+    "__typename": "InformationFacilities",
+    "i18nName": "로스터리",
+    "id": "212",
+    "name": "로스터리"
+  },
+  "InformationFacilities:4": {
+    "__typename": "InformationFacilities",
+    "i18nName": "포장",
+    "id": "4",
+    "name": "포장"
+  },
+  "InformationFacilities:7": {
+    "__typename": "InformationFacilities",
+    "i18nName": "무선 인터넷",
+    "id": "7",
+    "name": "무선 인터넷"
+  },
+  "InformationFacilities:8": {
+    "__typename": "InformationFacilities",
+    "i18nName": "남/녀 화장실 구분",
+    "id": "8",
+    "name": "남/녀 화장실 구분"
+  },
+  "InnerRoute:11036997": {
+    "__typename": "InnerRoute",
+    "id": "11036997",
+    "name": "N73"
+  },
+  "InnerRoute:1531": {
+    "__typename": "InnerRoute",
+    "id": "1531",
+    "name": "성동10"
+  },
+  "InnerRoute:522": {
+    "__typename": "InnerRoute",
+    "id": "522",
+    "name": "2016"
+  },
+  "InnerRoute:576": {
+    "__typename": "InnerRoute",
+    "id": "576",
+    "name": "N62"
+  },
+  "InnerRoute:603": {
+    "__typename": "InnerRoute",
+    "id": "603",
+    "name": "성동13"
+  },
+  "InnerRoute:968": {
+    "__typename": "InnerRoute",
+    "id": "968",
+    "name": "2224"
+  },
+  "Menu:2046166522_0": {
+    "__typename": "Menu",
+    "change": false,
+    "description": "",
+    "id": "2046166522_0",
+    "images": [
+      "https://ldb-phinf.pstatic.net/20250818_220/1755489574730xG0Ac_PNG/250814_%BA%EA%B7%B9%BA%F4_%BC%BA%BC%F6%C1%A1_%B8%DE%B4%BA%C6%C7-01.png"
+    ],
+    "index": 0,
+    "name": "아메리카노",
+    "nameForBlogReview": "아메리카노",
+    "price": "5500",
+    "priceType": null,
+    "priority": null,
+    "recommend": false
+  },
+  "Panorama:5VG4TcdUaJg4tluMqtIvcg==": {
+    "__typename": "Panorama",
+    "fov": "120",
+    "id": "5VG4TcdUaJg4tluMqtIvcg==",
+    "lat": "37.5431876",
+    "lon": "127.0539175",
+    "pan": "-98.42",
+    "tilt": "10.00"
+  },
+  "PlaceDetailBase:2046166522": {
+    "__typename": "PlaceDetailBase",
+    "address": "서울 성동구 성수동2가 316-42",
+    "beLocalWeek": null,
+    "category": "카페,디저트",
+    "categoryCode": "220563",
+    "categoryCodeList": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "categoryCount": 1,
+    "chatBotUrl": null,
+    "conveniences": [
+      "포장",
+      "무선 인터넷",
+      "남/녀 화장실 구분"
+    ],
+    "coordinate": {
+      "__typename": "Coordinate",
+      "mapZoomLevel": 12,
+      "x": "127.0538217",
+      "y": "37.5431735"
+    },
+    "defaultCategoryCodeList": [
+      "220036",
+      "220052",
+      "220563"
+    ],
+    "hasMobilePhoneNumber": false,
+    "hideBusinessHours": false,
+    "hidePrice": false,
+    "id": "2046166522",
+    "indoorInfo": null,
+    "isGoodStore": false,
+    "isKtis": null,
+    "microReviews": [
+      "커피 클래스로 배우는 향기로운 시간"
+    ],
+    "missingInfo": {
+      "__typename": "MissingInfo",
+      "businessType": "restaurant",
+      "isAccessorMissing": false,
+      "isBizHourMissing": true,
+      "isBoss": false,
+      "isConveniencesMissing": false,
+      "isDescriptionMissing": false,
+      "isMenuImageMissing": false,
+      "needLargeSuggestionBanner": true
+    },
+    "name": "브레빌 카페앤스토어 성수",
+    "naverBlog": null,
+    "openingHours": null,
+    "paymentInfo": null,
+    "phone": "02-2038-0184",
+    "poiInfo": {
+      "__typename": "PoiInfo",
+      "land": null,
+      "parentRelation": null,
+      "polygon": null,
+      "polyline": null,
+      "relation": null
+    },
+    "rcode": "09200115",
+    "reviewSettings": {
+      "__typename": "ReviewSettings",
+      "blog": 1,
+      "cafe": 1,
+      "keyword": null,
+      "showVisitorReviewScore": false
+    },
+    "road": "",
+    "roadAddress": "서울 성동구 연무장길 39-7",
+    "routeUrl": null,
+    "siteId": "sp_3a6aea06bea48",
+    "streetPanorama": {
+      "__ref": "Panorama:5VG4TcdUaJg4tluMqtIvcg=="
+    },
+    "talktalkUrl": null,
+    "virtualPhone": null,
+    "visitorReviewsScore": 0,
+    "visitorReviewsTextReviewTotal": 102,
+    "visitorReviewsTotal": 107
+  },
+  "ROOT_QUERY": {
+    "__typename": "Query",
+    "accessor({\"businessId\":\"2046166522\"})": {
+      "__typename": "Accessor",
+      "accessor": "",
+      "accessorBanner": []
+    },
+    "panoramaThumbnail({\"input\":{\"businessId\":\"2046166522\",\"height\":400,\"type\":\"thumbnail\",\"width\":800}})": {
+      "__typename": "PanoramaThumbnailResult",
+      "url": "https://apis.naver.com/place/panorama/thumbnail/2046166522/0?width=800&height=400&msgpad=1765988282360&md=TSKbmcvkruLDQ0HnE92dQ18GK%2Bc%3D"
+    },
+    "placeDetail({\"input\":{\"deviceType\":\"pcmap\",\"id\":\"2046166522\",\"isNx\":false}})": {
+      "POS": {
+        "__typename": "POS",
+        "averagePrice": null,
+        "badge": null,
+        "durationTime": null,
+        "isPOS": false,
+        "popularDay": null,
+        "popularMenus": null,
+        "salesCount": null,
+        "today": null,
+        "weeklyPopularity": null
+      },
+      "__typename": "PlaceDetail",
+      "acceptsConsumerCoupon": null,
+      "baemin": null,
+      "base": {
+        "__ref": "PlaceDetailBase:2046166522"
+      },
+      "bookingAwards": null,
+      "brandPromotion": null,
+      "broadcastInfos": null,
+      "busStations": [
+        {
+          "__ref": "BusStation:92475"
+        },
+        {
+          "__ref": "BusStation:196459"
+        },
+        {
+          "__ref": "BusStation:193701"
+        },
+        {
+          "__ref": "BusStation:89495"
+        },
+        {
+          "__ref": "BusStation:92477"
+        },
+        {
+          "__ref": "BusStation:197895"
+        }
+      ],
+      "businessHours({\"source\":[\"tpirates\",\"shopWindow\"]})": null,
+      "businessTools": {
+        "__typename": "BusinessTools",
+        "hideAnnouncement": false,
+        "tools": [
+          {
+            "__typename": "BusinessTool",
+            "countInString": null,
+            "description": "매장 내 주문부터 포장주문까지 편하게",
+            "link": "https://new.smartplace.naver.com/bizes/place/2046166522/solutions/order",
+            "title": "네이버 주문",
+            "type": "smartOrder",
+            "using": false
+          },
+          {
+            "__typename": "BusinessTool",
+            "countInString": "100만",
+            "description": "전화를 대신 받고 응대까지 해드려요!",
+            "link": "https://new-m.smartplace.naver.com/bizes/place/2046166522/smartcall",
+            "title": "스마트콜",
+            "type": "smartCall",
+            "using": false
+          },
+          {
+            "__typename": "BusinessTool",
+            "countInString": null,
+            "description": "실시간 예약관리를 온라인으로 한번에",
+            "link": "https://new.smartplace.naver.com/bizes/place/2046166522/solutions/booking",
+            "title": "네이버예약",
+            "type": "naverBooking",
+            "using": true
+          }
+        ]
+      },
+      "cesco": null,
+      "cp0Videos": [],
+      "cpImages({\"source\":[\"ugcImage\"]})": {
+        "__typename": "CPImages",
+        "images": [],
+        "total": 0
+      },
+      "datalabPhotos": null,
+      "description({\"source\":[\"shopWindow\"]})": "브레빌은 1932년 호주 시드니에서 설립된 프리미엄 주방 가전 브랜드입니다.\n\n2022년 6월, 아시아 지역 최초 공식 지사로 브레빌 코리아를 출범했습니다.\n\n브레빌은 지난 90년 동안 전 세계 75개 이상의 국가에 혁신적인 기술과 뛰어난 디자인을 가진 다양한 주방 제품을 선보이며 글로벌 브랜드로 성장했습니다.\n\n브레빌은 사용자 위주의 탁월한 혁신과 감각적인 디자인을 통해 사람들의 삶의 질을 향상시키고 있으며, 가정 내에서도 좀 더 손쉽고 건강한 요리에 도전하고 궁극적으로 요리의 모든 순간을 완벽하게(Master Every Moment) 할 수 있도록 노력하고 있습니다.",
+      "excludeTargets": null,
+      "exp": null,
+      "festivalPerformance": {
+        "__typename": "FestivalPerformance",
+        "festivalSectionHeadInfo": "",
+        "festivals": [],
+        "festivalsTotal": 0,
+        "headInfo": "",
+        "performances": [],
+        "performancesTotal": 0
+      },
+      "fsasReviews({\"fsasReviewsType\":\"restaurant\"})": {
+        "__typename": "FsasReviewsResult",
+        "items": [
+          {
+            "__ref": "FsasReview:blog_뉴니의 스윗홈_224106920446_반자동 원두 커피머신 추천, &#39;브레빌 성수&#39;에서 배우기!"
+          },
+          {
+            "__ref": "FsasReview:blog_쟈넷의 오페라 씨티_224075913106_브레빌 카페앤스토어 성수점"
+          },
+          {
+            "__ref": "FsasReview:blog_신혼부부의 일상여행기_224104593572_신혼일기 5개월차"
+          }
+        ],
+        "maxItemCount": 29,
+        "total": 29
+      },
+      "gift": {
+        "__typename": "Gift",
+        "gifticonId": null,
+        "gifticonMoreUrl": null
+      },
+      "goodPrice": null,
+      "hasAiBriefing": true,
+      "hasAroundItems": false,
+      "hasCoupon": {
+        "__typename": "HasCoupon",
+        "count": 0
+      },
+      "hasFeed": {
+        "__typename": "HasFeed",
+        "blogExist": null,
+        "feedExist": true
+      },
+      "homepages": {
+        "__typename": "Homepage",
+        "etc": [
+          {
+            "__typename": "HomepageRepr",
+            "isDeadUrl": false,
+            "isRep": null,
+            "landingUrl": "https://youtu.be/blTaP5oiXDs",
+            "order": 1,
+            "type": "유튜브",
+            "typeI18n": "유튜브",
+            "url": "https://youtu.be/blTaP5oiXDs"
+          }
+        ],
+        "repr": {
+          "__typename": "HomepageRepr",
+          "isDeadUrl": false,
+          "isRep": null,
+          "landingUrl": "https://www.instagram.com/brevillekorea/",
+          "order": 0,
+          "type": "인스타그램",
+          "typeI18n": "인스타그램",
+          "url": "https://www.instagram.com/brevillekorea/"
+        }
+      },
+      "images({\"source\":[\"starbucks\",\"tpirates\"]})": {
+        "__typename": "PlaceDetailImages",
+        "images": [
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4279,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_197/1756196361659vGdhw_JPEG/_DSC3478-%C0%FC%B0%E6.JPG",
+            "source": null,
+            "url": null,
+            "width": 6419
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 6968,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_139/1756196653372bBVNQ_JPEG/_DSC3786-%C0%BD%B7%E1%BA%A3%C0%CC%C4%BF%B8%AE.JPG",
+            "source": null,
+            "url": null,
+            "width": 4672
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4665,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_123/1756196462309iNt8w_JPEG/_DSC3491-1%C3%FE_%C4%AB%C6%E4.JPG",
+            "source": null,
+            "url": null,
+            "width": 6820
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4652,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_296/1756196653199jqw7T_JPEG/_DSC3487-1%C3%FE_%C4%AB%C6%E4.JPG",
+            "source": null,
+            "url": null,
+            "width": 6995
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4672,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_90/1756196401130wl8Jw_JPEG/_DSC3507-%BC%EE%B7%EB.JPG",
+            "source": null,
+            "url": null,
+            "width": 7008
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4672,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_128/1756196653437NNaRk_JPEG/_DSC3571-%B6%F3%B6%BC%BE%C6%C6%AE.JPG",
+            "source": null,
+            "url": null,
+            "width": 7001
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4672,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_73/17561965921679UvKm_JPEG/_DSC3537-%B0%E8%B7%AE.JPG",
+            "source": null,
+            "url": null,
+            "width": 6995
+          },
+          {
+            "__typename": "Image",
+            "desc": null,
+            "height": 4672,
+            "infoTitle": null,
+            "number": null,
+            "origin": "https://ldb-phinf.pstatic.net/20250826_285/17561964862949p0XB_JPEG/_DSC3475-%B7%E7%C7%C1%C5%BE.JPG",
+            "source": null,
+            "url": null,
+            "width": 6968
+          }
+        ],
+        "totalImages": 8
+      },
+      "informationTab({\"providerSource\":[\"pbp\"]})": {
+        "__typename": "InformationTab",
+        "facilities": [
+          {
+            "__ref": "InformationFacilities:212"
+          },
+          {
+            "__ref": "InformationFacilities:211"
+          },
+          {
+            "__ref": "InformationFacilities:4"
+          },
+          {
+            "__ref": "InformationFacilities:7"
+          },
+          {
+            "__ref": "InformationFacilities:8"
+          }
+        ],
+        "keywordList": [
+          "카페",
+          "커피",
+          "가정용커피머신",
+          "반자동머신",
+          "바라짜"
+        ],
+        "parkingInfo": {
+          "__typename": "InformationParking",
+          "basicParking": null,
+          "description": null,
+          "valetParking": null
+        }
+      },
+      "is100YearCertified": null,
+      "is100YearSmallManufacturer": null,
+      "isAntiqueStore": null,
+      "isKoreaGrandSale": false,
+      "isNFASafetyCertified": null,
+      "isRelaxRestaurant": null,
+      "isStarbucks": null,
+      "kinQna": {
+        "__typename": "KinQna",
+        "answerCount": null,
+        "answerList": null,
+        "profileUrl": null
+      },
+      "menuImages": [
+        {
+          "__typename": "MenuImage",
+          "imageUrl": "https://ldb-phinf.pstatic.net/20250818_79/1755489550613VBIgh_PNG/250814_%BA%EA%B7%B9%BA%F4_%BC%BA%BC%F6%C1%A1_%B8%DE%B4%BA%C6%C7-01.png"
+        }
+      ],
+      "menuSource": null,
+      "menus({\"source\":[\"tpirates\"]})": [
+        {
+          "__ref": "Menu:2046166522_0"
+        }
+      ],
+      "mfds": null,
+      "michelinGuide": null,
+      "naverBooking({\"bookingType\":\"restaurant\"})": {
+        "__typename": "PlaceDetailNaverBooking",
+        "bookingBusinessId": "1487594",
+        "bookingButtonName": "예약",
+        "bookingDisplayName": "방문",
+        "bookingHubButtonName": null,
+        "hasSmartOrder": false,
+        "nPayPromotion": null,
+        "naverBookingHubUrl": null,
+        "naverBookingPromotion": null,
+        "naverBookingUrl": "https://m.booking.naver.com/booking/6/bizes/1487594",
+        "promotionTitle": null
+      },
+      "naverOrder": {
+        "__typename": "NaverOrder",
+        "isDelivery": false,
+        "isPickup": false,
+        "isPreOrder": false,
+        "isTableOrder": false,
+        "items": []
+      },
+      "newBusinessHours({\"format\":\"restaurant\"})": [
+        {
+          "__typename": "NewBusinessHour",
+          "businessHours": [
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "목",
+              "description": null,
+              "lastOrderTimes": null
+            },
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "금",
+              "description": null,
+              "lastOrderTimes": null
+            },
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "토",
+              "description": null,
+              "lastOrderTimes": null
+            },
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "일",
+              "description": null,
+              "lastOrderTimes": null
+            },
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "월",
+              "description": null,
+              "lastOrderTimes": null
+            },
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "화",
+              "description": null,
+              "lastOrderTimes": null
+            },
+            {
+              "__typename": "WorkingHoursInfo",
+              "breakHours": [],
+              "businessHours": {
+                "__typename": "StartEndTime",
+                "end": "19:30",
+                "start": "10:30"
+              },
+              "day": "수",
+              "description": null,
+              "lastOrderTimes": null
+            }
+          ],
+          "businessStatusDescription": {
+            "__typename": "BusinessStatusDescription",
+            "blindDescription": "10시 30분에 영업 시작",
+            "description": "10:30에 영업 시작",
+            "status": "영업 종료"
+          },
+          "comingIrregularClosedDays": [
+            {
+              "__typename": "ComingIrregularClosedDay",
+              "displayInShowMore": true,
+              "endDate": null,
+              "name": "새해 첫날",
+              "startDate": "01/01"
+            }
+          ],
+          "comingRegularClosedDays": "",
+          "freeText": "",
+          "name": ""
+        }
+      ],
+      "newOpening": null,
+      "paiUpperImage": {
+        "__typename": "PaiUpperImage",
+        "images": [
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDVfMjc2/MDAxNzYyMzQ5NTIzOTA2.g2Ji-N6LW14pfEszlWHFkZigBlaYXFr9Zo0ffI9TnOog.kWoMZBPPOGu1l_RgJHvBulDSKExm8aBIv4E7N1leeV4g.JPEG/4FDE0BB9-FB3C-4D12-B47B-22601925358B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjNfMyAg/MDAxNzYzODg2ODcyMDA1.9sLMNpc39NxonVIPDaKZvi9oOtfhFNc5rDW9DvO1pwkg.kkbShbYbEep-q2zlu9ajTCCM08Sf85AQptZIB4DLZIIg.JPEG/CAF4B49D-33CB-49C5-93FD-CF6AA5393255.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDNfMjI1/MDAxNzYyMTQ4MzAxMDQ1.un0JvQB9S2dMP9uYTnqsUg4EWOzbKf-g3iHN_CkUackg.yRrkq-Lv6Y-krZCon4kNLHEYn3T0zdaNL9aCi7qD3Zsg.JPEG/620334B1-E5A3-45CE-966A-D1AD01E0301D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjlfMTk4/MDAxNzY0NDA0NDA2NzUy.sAf6OOP8sFQZdKwQvANCykxWw36Kr0qwiASdm1DW3lsg.bg1oSxxDf8R1tY9u3dvglFQJZ2f-TEFVVqaAs-ElZ-cg.JPEG/20251129_133825.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfOTIg/MDAxNzYxMzc2OTQ5Mjcz.V6AC8RCN9qa-lk4RcwLeKTgSgv_IMhy40U6U-qodhRIg.j5gW87rmFst0AOLYwakN9jdPg7cdxELvnG6WizZboN0g.JPEG/DB70E500-B68F-4E88-9EA6-2A15C5126DD2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjJfMjAz/MDAxNzYxMTM1MjU0MDg5.ptfLemmxMy53tMJCWyXa69MOjCpaTv0JXh2Ds6VLWHAg.U3gyIl-_lrtl7UPC4SKpYWOaoOEmKjTF4VNNlUb8WCIg.JPEG/73A2E478-9D79-4404-8DC4-014A708DD706.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjlfMTk4/MDAxNzY0NDI0NTIxNzM4.WP0W1mKMqCGMLrDkZeNoWh7CitbQTRn7WEY3d-9UoSQg.6b3EdmJnI4hFWPkqH-1jnt5REm2N2GejSIdAFDEdrm4g.JPEG/20251129_133625.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA4MzBfODkg/MDAxNzU2NTI4NjkwODcw.x1qAd5gwfLy00bl684Pq9XBWG9Y-aW75Sc3tXHASgogg.4T3h4tTGQSO-UKkPNkfILFigM2PLEDLe33m4DkGom68g.JPEG/BE1873CC-FD8C-4A57-91C3-D198FD997A83.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjRfMjM4/MDAxNzYxMjc3NTY0MjIz.0ChCMAjt_s4d5IhM7jVznSltm039htgeLfiaN6bB1OEg.PYZer46Fxtk2A9BbzPhnUT12rO-RcYyPrtUNG76SQ68g.JPEG/A66F919B-EEA3-49D9-B3CA-6FD15C3CD15D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDdfMTU4/MDAxNzYyNTA3MzI4NzY1.kro0s278wQtwTwLVmGJVt4yBDzEU7cP-aTdp9EGsSYIg.NALQbYFOOPpgWqNjxyGKFEGRznZsNKMyjqSAIs8kexcg.JPEG/2056D7A5-A769-4DE6-AF74-75ECAF2DCA10.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMTg4/MDAxNzU3MTMzNTg0MjY3.2pljo8_BLacgQCm7qTwBjMntPRSBicrNNLbwqa_wtqUg.l-tiwaT6lJWdFGnGv4_Sz_IxRWiKne4MC9QW2hyw8Ukg.JPEG/F4C8C1FD-3190-4851-9B84-C6D8C5BFB2C1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMjVfMTk2/MDAxNzYxMzczMjE3NDQ0.73vfJ3AtJwNlFP5wFLOnBb7P_T3CCBHP-o2ms1Wq3q4g.Xr2mZnMGCrZMYIdjpG1wNAnAfiUgmnmuqaGXs4snICAg.JPEG/B371FD04-74CB-44C9-B9DD-09053FFAEE4C.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MTBfMjg5/MDAxNzU3NDc3MTgxMzE2.EPGdY_5fsaHiGhHM2WFk4jWpSXsx501szjQQt1d87Mog.S7YgtkSi5rk1M7QwV3Oib9z_vd5PW2VI_YqVoK0u2_sg.JPEG/20250910_115315.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDNfMjQ3/MDAxNzU2ODc1Mzg0MDY3.Y-EIRvvQH-GcaJIcGaSlBzn1e7ToBqtFo9d80qeNYP0g.JibPXfqIk7XdIZUNNqbk88aiuUXORLTBEBZ8pq08XMAg.JPEG/E2E5ED6A-2C3C-4E3F-B788-895F76319B5B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjQ0/MDAxNzU2OTY1OTQ2NDM3.3zyjxmmlTMjZBafo1S9KDUwMAqaZWadElMuhqBAd5RQg.QmSPicb7ZQF758EuK6gYveXYIGqQ9RZvRoqXCj6BeLUg.JPEG/3BE5085B-8731-477B-89EE-06B65840A0E1.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMTVfMTkz/MDAxNzY1NzkzOTkwNTI0.PZtZq9I2dASBYvGulaPd-y9ra3Wr-nFJTTognGzC8Vkg.3wfNTWd_YpA3J11hzKtCng-_POO7H-hF_g6it9o-OIkg.JPEG/6D6939E6-ED23-4F95-AFFE-CF4AE892898D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMjQ2/MDAxNzU2OTY1OTQwOTc0.sDqqgQhbgbeeYsgyPPsM5hdUsWh74w8kpxdrh-YjDRIg.1MLuTFKz4m2G-y2jM7axeSJucGQS6Ol7YTII4dNYSkQg.JPEG/6F309549-B4F2-4A9D-B9F5-8C1405A0489A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMDhfMTUy/MDAxNzYyNTkxNDEzNzI2.L5fKfMhVQY9RS6DCyOsFHGxzcL4DifF59zI-pmFDNb0g.dliD8SxUWpuOgwoIhDQ1Aa55av4lAoZZ7MndKA2-0rYg.JPEG/6999246B-21A3-4A6E-A42F-176D95F4C249.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMjlfMjQw/MDAxNzY0NDI0NTIxNzYx.Pmi1eDPXKUjrPB67F2x46frN05_PSXKQI4jHO_cU-Lsg.rqTDpRK8MxBra3LRU0O08hmbpWH0JRltvrkrv8CuYW4g.JPEG/20251129_133646.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MzBfMjEz/MDAxNzU5MjIyODA5NTc2.UHZPBMwM-kgYHPZtas-7yX-yTDbQm3OEcyJTTn1kNq8g._y1vab5Lnh7tYTx9-CKEHvD482PycYrowHWCAimFfIIg.JPEG/20250930_175931.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMzBfODkg/MDAxNzY0NDg5MzAzMTAw.GJxPw2uwCzPi7jgbD-SoigkUwOf7S_x_VnqBpI3L5-Ig.Pp2y512N7utNT-EwKJI3E07qWA8jc0DsNzME7XlGBpAg.JPEG/BD2927A2-EB6D-479F-8345-ADAC3FF699E2.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEwMTRfMjY3/MDAxNzYwNDE3ODAyMTI4.Aen8e6J45Ek_DDhCJcCy9zhlbLpQRQYUdy884Ts1Y9Mg.qOIjddPP5BhqizdfvKhme5UxVY4sosm0KbmpsQmhE_Mg.JPEG/630A04EE-C1AA-42B8-9840-32C3EB93D200.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTFfMjgy/MDAxNzYyODQxMzczMzE3.7HbNkZSZPN6ZaDQEgpxF53get-wCugtK_xmWyExrAyMg.zEt8THUHGPRpDRuy0FkDR6RWeLBk80eimT1ki95G73Mg.JPEG/AAB2578D-2658-42DE-9F5C-3D30F5AB78BA.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTExMTZfMjEz/MDAxNzYzMjg4MTYyNTc5.gF2UeRj41FHquxaKQxBCRfsA-glMywv_ZJUZfIk5f00g.F5h6XhV1haO5Bw5OgYjSCIWrtytOYm4Cv9B2JbVYMaMg.JPEG/BC432CE2-F2C1-4381-9278-A5A1F2A936B5.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMDdfMjcg/MDAxNzY1MDk0NjUwMzQw.X5hsMQdUEV9bHBULezYFHHY_-7cx4vx-RFv_J0nxOFgg.OuX6iAdj42176EpDc9nsT1MdkwPhd3akD-hOi5WvNzYg.JPEG/1765093718500.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDZfMjMy/MDAxNzU3MTMzNTg0MjA5.DkFsXFE2KQI7gTeIjcHy5CwtZ_8pB0TtiIy9f909lcYg.1PO0ZozWjbabG5BX9YE-czcFMV5d1L0YVIKVBwsFp7cg.JPEG/19489BB8-EA99-49A7-8770-093859F1FB6A.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MjhfMTQz/MDAxNzU5MDUyMTM3MjU5.szaFUOe6B78XB3Thjy5qEAv4fyPsQ_5TaoGywpTMlYsg.xHl02fRCmbTpFE4lSRPIBQNAbtn0RsNkOIrTlcIHALAg.JPEG/20250928_181741.jpg.jpg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTA5MDRfMTEz/MDAxNzU2OTY1OTQ3ODQ2.i6naxOeTB6a71jEgHlvB_M-w8ALH_Da_5mwiFtqtaVsg.7UIjw8T-k_Zo8lzXEQQsE1ColwCxYltxqVShE2Dl5BAg.JPEG/DBCF8AA0-5B7E-45FC-A961-BD1033AF646D.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMDdfMzAg/MDAxNzY1MDc5MjY3NDg3.EjmUVUijBdR7xhxDpeDG2Eb4PPK5MaMzmsbORFORZo8g.NY1n12C2pe3xICO1A4gcR5XQDI5MV5oEkfsPPH9Gc9Eg.JPEG/549985BE-A917-4DC6-8D11-E9008863C42B.jpeg",
+          "https://pup-review-phinf.pstatic.net/MjAyNTEyMDdfMTQz/MDAxNzY1MDk0NjYyNjgx.dNiyYF0hU0qHsyRQ9PhdNUPoPrkkE9_-62TgHedlx6Yg.yGtS0KHKVUxPsKTAn_ZnGKO-lps5pk-drtu_kUbHKOAg.JPEG/1765093718349.jpg.jpg"
+        ]
+      },
+      "relatedLinks": [
+        {
+          "__typename": "RelatedLink",
+          "clickCode": "siksin",
+          "iconName": "siksin",
+          "name": "식신",
+          "url": "https://www.siksinhot.com/P/1826454"
+        },
+        {
+          "__typename": "RelatedLink",
+          "clickCode": "dcode",
+          "iconName": "diningcode",
+          "name": "다이닝코드",
+          "url": "https://diningcode.com/profile.php?rid=PTyqc3lRldxM"
+        }
+      ],
+      "relatedPopupstore": [],
+      "restaurantInfoTabDetails": null,
+      "sasImages({\"businessType\":\"restaurant\",\"display\":30,\"input\":{\"businessType\":\"restaurant\",\"display\":30}})": [
+        {
+          "__typename": "SasImage",
+          "items": [
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMjc5%2FMDAxNzU2Nzk1ODQ3MTUx.dPD58MsvuKy9FQiwYD_MKUf7oEfe4tMIMzCHN1jU1LQg.Ts3wWYNb6W0Ib8AITfpThfP1qlZmyPRc4mIVT1NaeVog.JPEG%2FDSC06426.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMjc5/MDAxNzU2Nzk1ODQ3MTUx.dPD58MsvuKy9FQiwYD_MKUf7oEfe4tMIMzCHN1jU1LQg.Ts3wWYNb6W0Ib8AITfpThfP1qlZmyPRc4mIVT1NaeVog.JPEG/DSC06426.jpg",
+              "rank": "1",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2F20100204_135%2Fjanet7711_1265273079472_hMRzZ5_jpg%2F200112271-001.jpg",
+              "authorname": "쟈넷 Janet",
+              "date": "20251117090509",
+              "height": "5712",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTExMTRfMTY2%2FMDAxNzYzMDk4NzczNjc0.wK-9L5jElJqaoKJyxOIu0Y3BAHoGKtjf1jh5f7N2XfEg.Tq0l2nTci1_SD5RZHZOUgyVbxSxDHlikUJES_1NJ3k0g.JPEG%2FKakaoTalk_20251113_161932834_08.jpg",
+              "link": "http://blog.naver.com/janet7711/224075913106",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTExMTRfMTY2/MDAxNzYzMDk4NzczNjc0.wK-9L5jElJqaoKJyxOIu0Y3BAHoGKtjf1jh5f7N2XfEg.Tq0l2nTci1_SD5RZHZOUgyVbxSxDHlikUJES_1NJ3k0g.JPEG/KakaoTalk_20251113_161932834_08.jpg",
+              "rank": "2",
+              "section": "blog",
+              "subsection": "쟈넷의 오페라 씨티",
+              "text": "브레빌 카페앤스토어 성수점",
+              "title": "브레빌 카페앤스토어 성수점",
+              "width": "4284"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMzEwMTBfMTAy%2FMDAxNjk2OTE1MTc5MDE5.oKlYt4qSVpBaDmjYaj6esVWqbIGDXz3PQsQpKqss0CIg.HEsnWaQ5qUGnoY6VRjAlnYbN4EKx6dF4KzjjEXlCp3Eg.JPEG.ggukchelin%2F%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2594%2584%25EC%2582%25AC.jpg%2F%25EB%25B8%2594%25EB%25A1%259C%25EA%25B7%25B8%25ED%2594%2584%25EC%2582%25AC.jpg",
+              "authorname": "맛성국",
+              "date": "20251128083302",
+              "height": "4000",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTExMjZfMTMw%2FMDAxNzY0MTU0NDU5NDE1.GvQN5IvYrd_0xS-BzU2M3REo5ogvBDeRtWAgtvyjKPUg.2lpCNIWSkxxZ8ft1Zcgt0G1WfPFGLHgypYfpoVqZ3Esg.JPEG%2FKakaoTalk_20251125_172212879_04.jpg",
+              "link": "http://blog.naver.com/matjipdaedongyeojido/224090031235",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTExMjZfMTMw/MDAxNzY0MTU0NDU5NDE1.GvQN5IvYrd_0xS-BzU2M3REo5ogvBDeRtWAgtvyjKPUg.2lpCNIWSkxxZ8ft1Zcgt0G1WfPFGLHgypYfpoVqZ3Esg.JPEG/KakaoTalk_20251125_172212879_04.jpg",
+              "rank": "3",
+              "section": "blog",
+              "subsection": "꾹슐랭의 맛동여지도",
+              "text": "나만의 홈카페 꾸미기 브레빌 카페앤스토어 성수",
+              "title": "나만의 홈카페 꾸미기 브레빌 카페앤스토어 성수",
+              "width": "3000"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2F20161014_223%2Fbuang88_1476424447942CAUhz_JPEG%2FprofileImage.jpg",
+              "authorname": "MEZZOSQUARE",
+              "date": "20251026085936",
+              "height": "3000",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTFfMjM3%2FMDAxNzYwMTYxMzA2MTM3.Nb1T7CIVAF9di0WXPU9qrQR1wl_vEMPVilp6iwQc_N8g.3OuZ8ONXg6WY6iBMnayCv5bjbGJ9Kl1DzMzGyZ8hSyAg.JPEG%2F20251010%25A3%25DF141016.jpg",
+              "link": "http://blog.naver.com/buang88/224054002162",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMTFfMjM3/MDAxNzYwMTYxMzA2MTM3.Nb1T7CIVAF9di0WXPU9qrQR1wl_vEMPVilp6iwQc_N8g.3OuZ8ONXg6WY6iBMnayCv5bjbGJ9Kl1DzMzGyZ8hSyAg.JPEG/20251010%A3%DF141016.jpg",
+              "rank": "4",
+              "section": "blog",
+              "subsection": "Simple",
+              "text": "[서울/성수동] 브레빌 카페앤스토어 성수",
+              "title": "[서울/성수동] 브레빌 카페앤스토어 성수",
+              "width": "4000"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA4MTVfMTcy%2FMDAxNzU1MjU4NzIyNjA3.PVGoGLLMjhyHEfviB5VtRGyettT9fsSnZmO5nmOKWsUg.33i2ODODvLVgIUDWzAtc5L9l4IwxMbQcUypcfyCfvoog.JPEG%2FprofileImage.jpg",
+              "authorname": "깁미댓요한",
+              "date": "20251016180216",
+              "height": "4032",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTBfMjQg%2FMDAxNzYwMTAwMzczNjYw.EUujhmQWfiL9OHLBOBSlrbK5a09HAWU9nzJ20EklbK8g.qXfwQaX7rQOZ1rc-ATYOOGjppVpXudcW2E77nhYK6n8g.PNG%2Fimage.png",
+              "link": "http://blog.naver.com/give_me_that_yohan/224037087676",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMTBfMjQg/MDAxNzYwMTAwMzczNjYw.EUujhmQWfiL9OHLBOBSlrbK5a09HAWU9nzJ20EklbK8g.qXfwQaX7rQOZ1rc-ATYOOGjppVpXudcW2E77nhYK6n8g.PNG/image.png",
+              "rank": "5",
+              "section": "blog",
+              "subsection": "깁미댓요한의 고고씽씽붕붕",
+              "text": "[EP53] 성수 카페 추천, 브레빌 성수 루프탑에서 즐긴 힐링 타임",
+              "title": "[EP53] 성수 카페 추천, 브레빌 성수 루프탑에서 즐긴 힐링 타임",
+              "width": "3024"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNDA4MDZfMTA1%2FMDAxNzIyOTUzMDYxMTY0.wnAQ6ViF2uIHAYwEp0nhTOjG1GQcU3X7Me-I04rF25Qg.q9n84yCRD5U-M4GYbRUyXVOjEOJZP3uzracuNjt-geMg.JPEG%2FprofileImage.jpg",
+              "authorname": "Chaeriny",
+              "date": "20251025184612",
+              "height": "3000",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMjNfNzQg%2FMDAxNzYxMjI3NDA5MDI1.3sLRXvEi51P3DU2Rol59ruMOyg1REQ92-EyoxpM7wpMg.0w8x8YvM57Foie95POsOk_7kczdvUkJioOXeD2o6RDYg.JPEG%2FIMG%25A3%25DF6563.jpg",
+              "link": "http://blog.naver.com/pcr_0413/224053569685",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMjNfNzQg/MDAxNzYxMjI3NDA5MDI1.3sLRXvEi51P3DU2Rol59ruMOyg1REQ92-EyoxpM7wpMg.0w8x8YvM57Foie95POsOk_7kczdvUkJioOXeD2o6RDYg.JPEG/IMG%A3%DF6563.jpg",
+              "rank": "6",
+              "section": "blog",
+              "subsection": "✿채린블라썸✿Chaeriny Blossom",
+              "text": "[서울/카페] 성수동 연무장 <브레빌 카페앤 스토어> 신상 카페 방문 후기",
+              "title": "[서울/카페] 성수동 연무장 <브레빌 카페앤 스토어> 신상 카페 방문 후기",
+              "width": "1688"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA3MDhfMjky%2FMDAxNzUxOTM4NjE2MjAz.BEpR36Xe75IR26IrhYeyBtvBH201oQhOG6xg1v5kcZsg.Fw9XeaQ2gDSUBi4sPAoxV8NJA66hsDXuDbdSTeTi7xYg.PNG%2FprofileImage.png",
+              "authorname": "기무니",
+              "date": "20251126080436",
+              "height": "906",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTExMjRfMjEg%2FMDAxNzYzOTU1NjU3Mjg4.SDgfQXMDNuthac5Dod8izTVvSHxl4gAYiQjCBjaaTSsg.pNVEZzMv2UPjESqYI6h7SPbcRbaDeVM2pL2OAutXhuMg.PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png",
+              "link": "http://blog.naver.com/gimuni0000/224086200490",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTExMjRfMjEg/MDAxNzYzOTU1NjU3Mjg4.SDgfQXMDNuthac5Dod8izTVvSHxl4gAYiQjCBjaaTSsg.pNVEZzMv2UPjESqYI6h7SPbcRbaDeVM2pL2OAutXhuMg.PNG/%B4%D9%BF%EE%B7%CE%B5%E5.png",
+              "rank": "7",
+              "section": "blog",
+              "subsection": "기무니, 당신은 최고야",
+              "text": "성수 카페 추천! 브레빌 카페앤스토어 성수, 커피 덕후의 성수주말데이트 코스",
+              "title": "성수 카페 추천! 브레빌 카페앤스토어 성수, 커피 덕후의 성수주말데이트 코스",
+              "width": "1280"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA4MzFfMjU4%2FMDAxNzU2NjAzODExMDI1.KDq21q_LlhDmFagJ_vVjnLn_GHk29BmUiJy0tm2-J6Ag.B0A3yJfOncQcDtXE95SJ4TbP2dU4XqYlPraViHk0uZYg.JPEG%2F451EC8F5-07DB-40FD-B149-E9777B03CD79_4_5005_c.jpeg%2F451EC8F5-07DB-40FD-B149-E9777B03CD79_4_5005_c.jpeg",
+              "authorname": "쓰다",
+              "date": "20251123215728",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTExMTRfMTU5%2FMDAxNzYzMTAzMjUzNjc5.nlGDDniPZ8WH4cqDw78yuW6hwb-JWTITkH_GBOdxuAYg.NN9oWKw3oiOgX5sVhVJEBnOJ_SkT35hjDPntyAgYFl0g.JPEG%2FIMG%25A3%25DF7039.JPG",
+              "link": "http://blog.naver.com/deepumbrella/224085584500",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTExMTRfMTU5/MDAxNzYzMTAzMjUzNjc5.nlGDDniPZ8WH4cqDw78yuW6hwb-JWTITkH_GBOdxuAYg.NN9oWKw3oiOgX5sVhVJEBnOJ_SkT35hjDPntyAgYFl0g.JPEG/IMG%A3%DF7039.JPG",
+              "rank": "8",
+              "section": "blog",
+              "subsection": "쓰다보니추천",
+              "text": "성수맛집 에스메로 추천 메뉴, 브레빌 카페, 커피원두추천",
+              "title": "성수맛집 에스메로 추천 메뉴, 브레빌 카페, 커피원두추천",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA3MDhfMjky%2FMDAxNzUxOTM4NjE2MjAz.BEpR36Xe75IR26IrhYeyBtvBH201oQhOG6xg1v5kcZsg.Fw9XeaQ2gDSUBi4sPAoxV8NJA66hsDXuDbdSTeTi7xYg.PNG%2FprofileImage.png",
+              "authorname": "기무니",
+              "date": "20251007164617",
+              "height": "2250",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMDdfMjI4%2FMDAxNzU5ODIyNTczMjQ5.5B8WZTHEu3rAe64-zyeCSELwmHErZ68KQ0nAQa4NG_Ag.-Rhv6cxgiJJ1uGkWU5XovLGMwXo6p4xpzywCguyhhBwg.JPEG%2FIMG_4276.jpg",
+              "link": "http://blog.naver.com/gimuni0000/224034143992",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMDdfMjI4/MDAxNzU5ODIyNTczMjQ5.5B8WZTHEu3rAe64-zyeCSELwmHErZ68KQ0nAQa4NG_Ag.-Rhv6cxgiJJ1uGkWU5XovLGMwXo6p4xpzywCguyhhBwg.JPEG/IMG_4276.jpg",
+              "rank": "9",
+              "section": "blog",
+              "subsection": "기무니, 당신은 최고야",
+              "text": "57.3kg 연휴에는 다어이터 아니고 유지어터",
+              "title": "57.3kg 연휴에는 다어이터 아니고 유지어터",
+              "width": "2250"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA2MjBfMjM1%2FMDAxNzUwNDEwMjU1Mjg3.IPBc4X-rdOvIJhkbxqtRx42wLazu3IoXevgh7xKhOcEg.vQHLG5kVCcrsIAAuVaH1ymm731keIeKU_14Kp9nd2-sg.PNG%2FprofileImage.png",
+              "authorname": "옌피셜",
+              "date": "20251110151537",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTExMDlfMjIg%2FMDAxNzYyNjgwNTg2MzA3.Ty7tU5bxYrInui2aP9i9O7jnRo_V0g4nVxueJLMe5Ekg.MHEVM4rXXm_mofWeAZlWS7eYZAjMRxbHuWp4MmyOKBog.JPEG%2FIMG%25A3%25DF4437.jpg",
+              "link": "http://blog.naver.com/yeeun4751/224071074834",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTExMDlfMjIg/MDAxNzYyNjgwNTg2MzA3.Ty7tU5bxYrInui2aP9i9O7jnRo_V0g4nVxueJLMe5Ekg.MHEVM4rXXm_mofWeAZlWS7eYZAjMRxbHuWp4MmyOKBog.JPEG/IMG%A3%DF4437.jpg",
+              "rank": "10",
+              "section": "blog",
+              "subsection": "Yean.official",
+              "text": "성수 신상 카페 브레빌 카페앤스토어 성수 내돈내산 방문 후기 (루프탑 포토존까지 완벽했던 성수카페)",
+              "title": "성수 신상 카페 브레빌 카페앤스토어 성수 내돈내산 방문 후기 (루프탑 포토존까지 완벽했던 성수카페)",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA4MDNfMjc0%2FMDAxNzU0MjEzNzI1MDgy.ZPoBDnBkDBWXstYhxDYqzbwp6syzq_EqcxnObkiebmcg.N9Z5Py1M0srmhoFkkUySuujKItQ8g4rErog3g5H5jqEg.PNG%2FprofileImage.png",
+              "authorname": "맑음",
+              "date": "20251027113424",
+              "height": "1920",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fimage.nmv.naver.net%2Fblog_2025_10_27_1510%2FanEd4wjwls_03.jpg",
+              "link": "http://blog.naver.com/joy839/224055079219",
+              "originalUrl": "http://image.nmv.naver.net/blog_2025_10_27_1510/anEd4wjwls_03.jpg",
+              "rank": "11",
+              "section": "blog",
+              "subsection": "Everyday wellness",
+              "text": "성수 루프탑 신상카페 추천 브레빌 카페앤스토어",
+              "title": "성수 루프탑 신상카페 추천 브레빌 카페앤스토어",
+              "width": "1080"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "",
+              "authorname": "현토끼",
+              "date": "20251010195412",
+              "height": "1371",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMTBfMjY5%2FMDAxNzYwMDY0NTA3NTA5.u4owGboDAp-m71uq-jBqRNBG1Lb8103FWkiAj4Ut1xQg.2MS1x3WqYCf6SSRPMwD0g5GphhF8GydVtyhceI9qOokg.JPEG%2FIMG%25A3%25DF9340.JPG",
+              "link": "http://blog.naver.com/jina_conejita/224036965588",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMTBfMjY5/MDAxNzYwMDY0NTA3NTA5.u4owGboDAp-m71uq-jBqRNBG1Lb8103FWkiAj4Ut1xQg.2MS1x3WqYCf6SSRPMwD0g5GphhF8GydVtyhceI9qOokg.JPEG/IMG%A3%DF9340.JPG",
+              "rank": "12",
+              "section": "blog",
+              "subsection": "현토끼의 이야기",
+              "text": "브레빌 카페앤스토어 성수 원데이 클래스 체험 후기(ft. 체험비 뽕뽑음)",
+              "title": "브레빌 카페앤스토어 성수 원데이 클래스 체험 후기(ft. 체험비 뽕뽑음)",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTEwMjRfMjAx%2FMDAxNzYxMzAxOTY1OTUw.--ZdvamC8Icf2PALBrAodY6WXz9c0V8P7fNzc9JO3FYg.kqBLJjls5Eez_VWxGYuZjtl4iiGtTGf3et1h0yNXajIg.PNG%2FprofileImage.png",
+              "authorname": "yeahjun",
+              "date": "20251008212349",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMDhfMTU4%2FMDAxNzU5OTI1OTUyMTg2.qtoCLrATqRDFvnFH4sVM54LWnJXYAhd-dfI11RB4_IYg.4NuJo5F8azHImJgVQm44_L61oe4eKwMQ-gCx8a3ny6sg.JPEG%2FIMG%25A3%25DF4534.JPG",
+              "link": "http://blog.naver.com/yeah_jun__/224035109673",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMDhfMTU4/MDAxNzU5OTI1OTUyMTg2.qtoCLrATqRDFvnFH4sVM54LWnJXYAhd-dfI11RB4_IYg.4NuJo5F8azHImJgVQm44_L61oe4eKwMQ-gCx8a3ny6sg.JPEG/IMG%A3%DF4534.JPG",
+              "rank": "13",
+              "section": "blog",
+              "subsection": "도망일기 먹기록",
+              "text": "[도망일기#1] 성수에서 마음에 쉼을 주는 - 카페 브레빌 성수",
+              "title": "[도망일기#1] 성수에서 마음에 쉼을 주는 - 카페 브레빌 성수",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMTEwMjNfMzAg%2FMDAxNjM0OTc4MjQxNDE5.sMCxuJGKrswiXOj0o23KMEH8UcpaKM86HhvcoJFq34sg.lPxOJrolLSXz0MniTtWYsKmc7cNbCEvK1Cy9b0o6DYkg.PNG.9319__%2FprofileImage.png",
+              "authorname": "mdu94",
+              "date": "20251002181203",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMDJfNiAg%2FMDAxNzU5Mzc1MTcyNjU5._VHNoZao7SdIWdpM7lufdq-8tWqVaPqDPAiVUACKUEUg.lEFlDHwW2hH9G9CXQmuhWvGmTQ1BnR1HYZsS5dRq3zAg.JPEG%2FIMG%25A3%25DF9584.JPG",
+              "link": "http://blog.naver.com/mdu_94/224029909428",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMDJfNiAg/MDAxNzU5Mzc1MTcyNjU5._VHNoZao7SdIWdpM7lufdq-8tWqVaPqDPAiVUACKUEUg.lEFlDHwW2hH9G9CXQmuhWvGmTQ1BnR1HYZsS5dRq3zAg.JPEG/IMG%A3%DF9584.JPG",
+              "rank": "14",
+              "section": "blog",
+              "subsection": "순간의 감정을 소중히 ❣️",
+              "text": "브레빌 카페앤스토어 성수",
+              "title": "브레빌 카페앤스토어 성수",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTAyMTVfMTA1%2FMDAxNzM5NTgzNjk2MzY4.cG-p87Sj71QXecStXujbblNn_meFLzxK5lY0Nvm3_8sg.tBCW-uU8xsAFfWbK5hP4wN8Yhey3XrJ-T34mUKhMijUg.JPEG%2FprofileImage.jpg",
+              "authorname": "장까꿍",
+              "date": "20251006215154",
+              "height": "690",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMDZfMzQg%2FMDAxNzU5NzU1MTA2MzYx.TSUFlXd_1kJPVHBw0OQ5WHhtXZL6oeq8-MV5H1lvHf4g.Sok-YE0DP5pjdLKVNbw3Y54XkqbTm91Zzc_zmCv9TpMg.JPEG%2F900%25A3%25DF1759754110034.jpg",
+              "link": "http://blog.naver.com/9907068/224033573872",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTEwMDZfMzQg/MDAxNzU5NzU1MTA2MzYx.TSUFlXd_1kJPVHBw0OQ5WHhtXZL6oeq8-MV5H1lvHf4g.Sok-YE0DP5pjdLKVNbw3Y54XkqbTm91Zzc_zmCv9TpMg.JPEG/900%A3%DF1759754110034.jpg",
+              "rank": "15",
+              "section": "blog",
+              "subsection": "노는게 젤 좋은 식탐쟁이",
+              "text": "성수동 카페-브레빌 카페앤스토어 성수",
+              "title": "성수동 카페-브레빌 카페앤스토어 성수",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAxODA4MTFfMjYw%2FMDAxNTMzOTc3ODM5MjE0.RhnWyceLoO0yD8WH3I1WLW7OslgacbZDRg1Gr2NwomMg.PwtQpHrPtunG8hBIY3_tRm53TGEWi-zEeWnx36ijdg8g.PNG.pionee2r%2FprofileImage.png",
+              "authorname": "pionee2r",
+              "date": "20250928215941",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MjhfMTE3%2FMDAxNzU5MDYyMTM0Mjc5.q6k6TzMMUqkeTrXUDm69XFVXgJnwW5_3D85tnrd1kbog.Z64LJZzK7ZeSuaFyQejHQ4nQ2KEbCiDulkyqbWRPt4Eg.JPEG%2FIMG%25A3%25DF9214.jpg",
+              "link": "http://blog.naver.com/pionee2r/224024951570",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MjhfMTE3/MDAxNzU5MDYyMTM0Mjc5.q6k6TzMMUqkeTrXUDm69XFVXgJnwW5_3D85tnrd1kbog.Z64LJZzK7ZeSuaFyQejHQ4nQ2KEbCiDulkyqbWRPt4Eg.JPEG/IMG%A3%DF9214.jpg",
+              "rank": "16",
+              "section": "blog",
+              "subsection": "글쓰기라는 세계",
+              "text": "홈카페 우리집에 들이고 싶을 때 방문해 보세요! 커피에 진심인 ‘브레빌 카페앤스토어 성수’ 내돈내산 솔직후기",
+              "title": "홈카페 우리집에 들이고 싶을 때 방문해 보세요! 커피에 진심인 ‘브레빌 카페앤스토어 성수’ 내돈내산 솔직후기",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMzAzMjFfMTcx%2FMDAxNjc5MzU5NDY1NjEw.RL2fQzM9MdIWBKSPULXredPzUhZoigvyNKOTAsz02Fog.K42VRjRfRsLS9ww311b4tD7LX5Va2CoCWMEPt8U9lLsg.JPEG.roos2jin%2FKakaoTalk_20230321_094333352.jpg%2FKakaoTalk_20230321_094333352.jpg",
+              "authorname": "루지니",
+              "date": "20250925115338",
+              "height": "792",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MjVfMzAw%2FMDAxNzU4NzY4NDcwMzQy.hB7zKQvfq4eZUBRMXttxKCkihfaWfjXcq4iKev7ZU3Qg.9sI0--GBDzChorr0CX0NShqZnXch31Pm-7dCa2aMGy4g.JPEG%2FIMG%25A3%25DF5198.jpg",
+              "link": "http://blog.naver.com/rcolfree/224021171981",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MjVfMzAw/MDAxNzU4NzY4NDcwMzQy.hB7zKQvfq4eZUBRMXttxKCkihfaWfjXcq4iKev7ZU3Qg.9sI0--GBDzChorr0CX0NShqZnXch31Pm-7dCa2aMGy4g.JPEG/IMG%A3%DF5198.jpg",
+              "rank": "17",
+              "section": "blog",
+              "subsection": "루지니의 일상탐방",
+              "text": "[성수 신상 카페] 브레빌 커피머신을 즐길 수 있는 '브레빌 카페앤스토어 성수'",
+              "title": "[성수 신상 카페] 브레빌 커피머신을 즐길 수 있는 '브레빌 카페앤스토어 성수'",
+              "width": "1027"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNDAxMTFfMTgx%2FMDAxNzA0OTc5ODIyMzcz.3rbL7ktsw-AwbivrNIuQ-ITHUhzDi7XhaePJok1ouwwg.5FqxMZJsY2FCMQ3knfuZLqr-EFl31ysOXLc2ZZFgOqEg.JPEG.sytop99%2FprofileImage.jpg",
+              "authorname": "서용",
+              "date": "20250920190158",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MjBfNDcg%2FMDAxNzU4MzYxNDg2MTg5.8ma6D_aGMRrCKzv_bbsRrSycg24GKGHDSRWEwZdQEtwg.lZe00uMOy41KV_GDbRvz-N9RbaSotzGsrY4hOqLio88g.JPEG%2FIMG%25A3%25DF4629.jpg",
+              "link": "http://blog.naver.com/syoung-log/224015480411",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MjBfNDcg/MDAxNzU4MzYxNDg2MTg5.8ma6D_aGMRrCKzv_bbsRrSycg24GKGHDSRWEwZdQEtwg.lZe00uMOy41KV_GDbRvz-N9RbaSotzGsrY4hOqLio88g.JPEG/IMG%A3%DF4629.jpg",
+              "rank": "18",
+              "section": "blog",
+              "subsection": "young.chive",
+              "text": "자유부인의 하루 ",
+              "title": "자유부인의 하루 ",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyNTA4MzBfMTYy%2FMDAxNzU2NTYxNDA0Mjk0.cdACuLjluhjWwhcm4yjeKRqIAitTF-yRqz5IV1Aoe5sg.kvKWBF4frrDBt8LY_klUm2WFzM08NiLxP5c8xsw_8RMg.PNG%2FprofileImage.png",
+              "authorname": "채지",
+              "date": "20250915074236",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDlfNTkg%2FMDAxNzU3NDEwODUxNTcz.YaMZoFIeYg2jiu-T8lzaF1zcYLx8j_Nnaxl_50a3bmQg.1ZE1DEzsUREg-4henwjlyjbHByix6rpJ6NV09a3s1Zgg.JPEG%2FIMG%25A3%25DF8092.jpg",
+              "link": "http://blog.naver.com/mesmerizing__/224008251983",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDlfNTkg/MDAxNzU3NDEwODUxNTcz.YaMZoFIeYg2jiu-T8lzaF1zcYLx8j_Nnaxl_50a3bmQg.1ZE1DEzsUREg-4henwjlyjbHByix6rpJ6NV09a3s1Zgg.JPEG/IMG%A3%DF8092.jpg",
+              "rank": "19",
+              "section": "blog",
+              "subsection": "mesmerizing",
+              "text": "월요팅",
+              "title": "월요팅",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMTA5MThfMTE5%2FMDAxNjMxOTYzODE0NTI4.LsgqECw9DClOkLUTeNA7b28vxWv5rHD_DBtS7J32-ccg.VQYDNBJkapgyO2MP9b91hmfQCIQGji5pJdA1GDNxbnQg.PNG.doohhw%2FprofileImage.png",
+              "authorname": "두깡",
+              "date": "20250915073315",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MTVfNzkg%2FMDAxNzU3ODg4ODEwMTUz.8EuzUNNt_-8l2UMweQgIBAlJOxMwPFgTawsK-QEIukYg.azFIDJ3fbx1UoozBPnQRKntKwY6t0OLf-OjfJQ5Ze9gg.JPEG%2FIMG%25A3%25DF7888.jpg",
+              "link": "http://blog.naver.com/doohhw/224008246353",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MTVfNzkg/MDAxNzU3ODg4ODEwMTUz.8EuzUNNt_-8l2UMweQgIBAlJOxMwPFgTawsK-QEIukYg.azFIDJ3fbx1UoozBPnQRKntKwY6t0OLf-OjfJQ5Ze9gg.JPEG/IMG%A3%DF7888.jpg",
+              "rank": "20",
+              "section": "blog",
+              "subsection": "찬란한 청춘,",
+              "text": "[데이로그:Daylog]브레빌 카페 앤 스토어, 성수 브레빌 카페, 성수 카페 추천.",
+              "title": "[데이로그:Daylog]브레빌 카페 앤 스토어, 성수 브레빌 카페, 성수 카페 추천.",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMTA5MzBfMzMg%2FMDAxNjMyOTMwNjU2NDcy.n57BajJ68a8V2dxm7KEck0Q1Yeyy6v9f2bDPUFZvT2sg.-DBLeOZmx_c3atJALp29ah8hstS-bvjwpCVR1nzhqp8g.PNG.jungin8973%2FprofileImage.png",
+              "authorname": "AMG",
+              "date": "20250830205937",
+              "height": "1920",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fimage.nmv.naver.net%2Fblog_2025_08_30_351%2FTLHduei1dW_01.jpg",
+              "link": "http://blog.naver.com/jungin8973/223989176476",
+              "originalUrl": "http://image.nmv.naver.net/blog_2025_08_30_351/TLHduei1dW_01.jpg",
+              "rank": "21",
+              "section": "blog",
+              "subsection": "심심해서 하는 블로그",
+              "text": "[브레빌 카페&스토어 성수] 여기 간거.. 오늘 내가 제일 잘한거..",
+              "title": "[브레빌 카페&스토어 성수] 여기 간거.. 오늘 내가 제일 잘한거..",
+              "width": "1080"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "",
+              "authorname": "몌",
+              "date": "20250909165430",
+              "height": "1200",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDlfMTI0%2FMDAxNzU3NDAyMjc1NDU1.-UIpEjRop9SGVm-Dpjj3o6CuoOPo2pYManeJT-_IZjMg.5K4nUOI4hVBVhk2kONhPJzIaBS7MW2yIq9TXLJXsw-Ag.JPEG%2FIMG%25A3%25DF0455.jpg",
+              "link": "http://blog.naver.com/mimiz__/224001455555",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDlfMTI0/MDAxNzU3NDAyMjc1NDU1.-UIpEjRop9SGVm-Dpjj3o6CuoOPo2pYManeJT-_IZjMg.5K4nUOI4hVBVhk2kONhPJzIaBS7MW2yIq9TXLJXsw-Ag.JPEG/IMG%A3%DF0455.jpg",
+              "rank": "22",
+              "section": "blog",
+              "subsection": "몌 일상",
+              "text": "브레빌 카페앤스토어 성수 ( 성수 새로 오픈한 카페, 뉴 카페 등판!!)",
+              "title": "브레빌 카페앤스토어 성수 ( 성수 새로 오픈한 카페, 뉴 카페 등판!!)",
+              "width": "900"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMjI0%2FMDAxNzU2Nzk1ODQ2NDcy.ylcViiVAldT0YlLXAEvTF8JyFkXWtOpF7T7aJmgJH2Qg.6pkPKfUGbItg99u89ws6fVIOWi9RoEQuFHbVU1E3MiEg.JPEG%2FDSC06415.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMjI0/MDAxNzU2Nzk1ODQ2NDcy.ylcViiVAldT0YlLXAEvTF8JyFkXWtOpF7T7aJmgJH2Qg.6pkPKfUGbItg99u89ws6fVIOWi9RoEQuFHbVU1E3MiEg.JPEG/DSC06415.jpg",
+              "rank": "23",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMjA1%2FMDAxNzU2Nzk1ODUwODE5.6oyTuVg1M9eQhn7RGbif4bma80hA-sNcg2svsqIvr1Ug.0D4epRmP7F-Bb2hlXdzEbVxYBRl04OFxTZNGYgR_hV4g.JPEG%2FDSC06492.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMjA1/MDAxNzU2Nzk1ODUwODE5.6oyTuVg1M9eQhn7RGbif4bma80hA-sNcg2svsqIvr1Ug.0D4epRmP7F-Bb2hlXdzEbVxYBRl04OFxTZNGYgR_hV4g.JPEG/DSC06492.jpg",
+              "rank": "24",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMjYx%2FMDAxNzU2Nzk1ODQ3NDE1.xxgz7oArCkwhg2H_s9DhCoTTLWdm6Z3Xqg0sPK2AQ3kg.hPnOA-pJ-9n-MfDcxsF4oq6AASu0zQBgR6-cJxAJ1_wg.JPEG%2FDSC06424.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMjYx/MDAxNzU2Nzk1ODQ3NDE1.xxgz7oArCkwhg2H_s9DhCoTTLWdm6Z3Xqg0sPK2AQ3kg.hPnOA-pJ-9n-MfDcxsF4oq6AASu0zQBgR6-cJxAJ1_wg.JPEG/DSC06424.jpg",
+              "rank": "25",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "7008",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMzEg%2FMDAxNzU2Nzk1ODQ0OTM5.FE03au-phhMSlmrukdoeCf0qe6MiB52RxaxPk39NWKgg.V5vxBFjdjq0GMxoCSDX0uHs6X_s47Zjuh-TM1QqPAH0g.JPEG%2FDSC06400.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMzEg/MDAxNzU2Nzk1ODQ0OTM5.FE03au-phhMSlmrukdoeCf0qe6MiB52RxaxPk39NWKgg.V5vxBFjdjq0GMxoCSDX0uHs6X_s47Zjuh-TM1QqPAH0g.JPEG/DSC06400.jpg",
+              "rank": "26",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "4672"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMjc0%2FMDAxNzU2Nzk1ODQ4NTY4.CF-9dMyvV6z-h82XeAGdYvjtY2s6B-GdMHa6QGZ1n2gg.KqXa97kDks6GOZ3qm1ZoDdECwAEkwY7AyLMN5g3WsWwg.JPEG%2FDSC06430.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMjc0/MDAxNzU2Nzk1ODQ4NTY4.CF-9dMyvV6z-h82XeAGdYvjtY2s6B-GdMHa6QGZ1n2gg.KqXa97kDks6GOZ3qm1ZoDdECwAEkwY7AyLMN5g3WsWwg.JPEG/DSC06430.jpg",
+              "rank": "27",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMTAy%2FMDAxNzU2Nzk1ODUwOTUx.Jukg6dX4OrSNhcEUHc8hT8rsxXIvtkZnhv4JpDpPnG0g.CEf1QLnVnbKn0AqY6fa100m9Wik4NhDw-3MYWbQ_EgAg.JPEG%2FDSC06480.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMTAy/MDAxNzU2Nzk1ODUwOTUx.Jukg6dX4OrSNhcEUHc8hT8rsxXIvtkZnhv4JpDpPnG0g.CEf1QLnVnbKn0AqY6fa100m9Wik4NhDw-3MYWbQ_EgAg.JPEG/DSC06480.jpg",
+              "rank": "28",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMzIg%2FMDAxNzU2Nzk1ODQ5NDE1.9LEoLtA2zn0HuRiRZskWXoYy2aVeLKsXwp2GoMlAXO4g.7i4d6ZNLmwOB2xibi7VVR384AgXqWsvz7SL4kkZbU6wg.JPEG%2FDSC06451.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMzIg/MDAxNzU2Nzk1ODQ5NDE1.9LEoLtA2zn0HuRiRZskWXoYy2aVeLKsXwp2GoMlAXO4g.7i4d6ZNLmwOB2xibi7VVR384AgXqWsvz7SL4kkZbU6wg.JPEG/DSC06451.jpg",
+              "rank": "29",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            },
+            {
+              "__typename": "UgcImage",
+              "authorThumbnail": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f120_120&src=http%3A%2F%2Fblogpfthumb.phinf.naver.net%2FMjAyMjExMDJfMTk2%2FMDAxNjY3MzcyMTUxMDg3.0QKEyHHs8eHVjUmti-kTBypy4Rl7592AWmnVrK5RIqEg.b-iZv_6Qg3kA04AEsR-dFrlhpHCz-RAS1y3Hc1n2rFog.JPEG.praddaa%2FDSC01821.jpg%2FDSC01821.jpg",
+              "authorname": "타샤구마",
+              "date": "20250902161834",
+              "height": "4672",
+              "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MDJfMjYy%2FMDAxNzU2Nzk1ODU0NjM0.IEt3JBiuhl-jdJUA7SkVQL3i2kfaupJqEEIyss-hsN0g.h_TErWSD4kR6Tuy_q3eCjF6hSAXeunWdMtrQF-QgGtIg.JPEG%2FDSC06542.jpg",
+              "link": "http://blog.naver.com/praddaa/223992562496",
+              "originalUrl": "http://blogfiles.naver.net/MjAyNTA5MDJfMjYy/MDAxNzU2Nzk1ODU0NjM0.IEt3JBiuhl-jdJUA7SkVQL3i2kfaupJqEEIyss-hsN0g.h_TErWSD4kR6Tuy_q3eCjF6hSAXeunWdMtrQF-QgGtIg.JPEG/DSC06542.jpg",
+              "rank": "30",
+              "section": "blog",
+              "subsection": "타샤 ♡ 구마 ::: Carpe diem :::",
+              "text": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "title": "브레빌 카페앤스토어 성수점에 다녀왔어요!",
+              "width": "7008"
+            }
+          ],
+          "relation": "연관사진",
+          "total": 385
+        }
+      ],
+      "shopWindow": {
+        "__typename": "ShopWindow",
+        "branchNews": null,
+        "branchYn": null,
+        "businessHours": null,
+        "description": null,
+        "homepages": {
+          "__typename": "Homepage",
+          "etc": [
+            {
+              "__typename": "HomepageRepr",
+              "isDeadUrl": false,
+              "isRep": null,
+              "landingUrl": "https://youtu.be/blTaP5oiXDs",
+              "order": 1,
+              "type": "유튜브",
+              "url": "https://youtu.be/blTaP5oiXDs"
+            }
+          ],
+          "repr": {
+            "__typename": "HomepageRepr",
+            "isDeadUrl": false,
+            "isRep": null,
+            "landingUrl": "https://www.instagram.com/brevillekorea/",
+            "order": 0,
+            "type": "인스타그램",
+            "url": "https://www.instagram.com/brevillekorea/"
+          }
+        },
+        "isTraditionalMarket": null,
+        "itemsFromChannelNo": null,
+        "itemsFromInterlockId": null,
+        "naverPayYn": null,
+        "sales": null,
+        "total": null,
+        "typeName": null,
+        "url": null
+      },
+      "staticMapUrl({\"markerType\":\"restaurant\"})": "https://simg.pstatic.net/static.map/v2/map/staticmap.bin?center=127.0538217%2C37.5431735&level=16&dataversion=176.91&caller=naver_mstore&markers=pos%3A127.0538217%2037.5431735%7Ctype%3Ac%7Ccolor%3Ablue%7Clabel%3Arestaurant",
+      "subwayStations": [
+        {
+          "__typename": "SubwayStation",
+          "color": "#3cb44a",
+          "name": "2",
+          "no": "2호선",
+          "priority": 2,
+          "station": {
+            "__ref": "SubwayStationInfo:211"
+          },
+          "transfers": [],
+          "type": 202,
+          "typeDesc": "성수역 2호선"
+        }
+      ],
+      "tabling": {
+        "__typename": "Tabling",
+        "isUsed": false,
+        "tablePreemptionLimitKm": null,
+        "tablePreemptionUrl": null
+      },
+      "themes": null,
+      "tvcasts": null,
+      "visitorReviewMediasTotal": 189,
+      "visitorReviewStats": {
+        "__ref": "VisitorReviewStatsResult:2046166522"
+      }
+    },
+    "recentBooking({\"input\":{\"bookingStatuses\":[\"confirmed\"],\"businessId\":\"2046166522\",\"businessType\":\"restaurant\"}})": null
+  },
+  "SubwayStationInfo:211": {
+    "__typename": "SubwayStationInfo",
+    "displayName": "성수역",
+    "id": 211,
+    "lat": 37.5445688,
+    "lng": 127.0559819,
+    "name": "성수",
+    "nearestExit": "4",
+    "nearestExitType": "public",
+    "walkTime": 4,
+    "walkingDistance": 264
+  },
+  "VisitorReviewStatsResult:2046166522": {
+    "__typename": "VisitorReviewStatsResult",
+    "analysis": {
+      "__typename": "VisitorReviewStatsAnalysis",
+      "menus": [
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 55,
+          "label": "커피"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 21,
+          "label": "라떼"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 4,
+          "label": "에스프레소"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 3,
+          "label": "우유"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 1,
+          "label": "마들렌"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 1,
+          "label": "아메리카노"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "count": 1,
+          "label": "핸드드립"
+        }
+      ],
+      "themes": [
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "total",
+          "count": 85,
+          "label": "만족도"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "service",
+          "count": 67,
+          "label": "서비스"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "taste",
+          "count": 35,
+          "label": "맛"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "naver",
+          "count": 12,
+          "label": "예약"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "purpose",
+          "count": 8,
+          "label": "목적"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "mood",
+          "count": 6,
+          "label": "분위기"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "price",
+          "count": 3,
+          "label": "가격"
+        },
+        {
+          "__typename": "VisitorReviewStatsAnalysisThemes",
+          "code": "location",
+          "count": 2,
+          "label": "위치"
+        }
+      ],
+      "votedKeyword": {
+        "__typename": "VisitorReviewStatsAnalysisVoteKeyword",
+        "details": [
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "coffee_good",
+            "count": 92,
+            "displayName": "커피가 맛있어요",
+            "iconCode": "coffee",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/coffee20220119222225.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "kind",
+            "count": 67,
+            "displayName": "친절해요",
+            "iconCode": "beating_heart",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/beating_heart20220119222223.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "store_clean",
+            "count": 38,
+            "displayName": "매장이 청결해요",
+            "iconCode": "sparkles",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/sparkles20220119222028.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "interior_cool",
+            "count": 36,
+            "displayName": "인테리어가 멋져요",
+            "iconCode": "couch_and_lamp",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/couch_and_lamp20220119222025.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "study_good",
+            "count": 26,
+            "displayName": "집중하기 좋아요",
+            "iconCode": "laptop",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/laptop20220119222228.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "talk_good",
+            "count": 22,
+            "displayName": "대화하기 좋아요",
+            "iconCode": "speaking_head",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/speaking_head20220119222227.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "atmosphere_calm",
+            "count": 11,
+            "displayName": "차분한 분위기예요",
+            "iconCode": "face_relieved",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/face_relieved20220119222233.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "drink_good",
+            "count": 11,
+            "displayName": "음료가 맛있어요",
+            "iconCode": "juice",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/juice20220119222226.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "photo_good",
+            "count": 9,
+            "displayName": "사진이 잘 나와요",
+            "iconCode": "camera_with_flash",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/camera_with_flash20220119222227.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "cozy",
+            "count": 7,
+            "displayName": "아늑해요",
+            "iconCode": "face_smiling",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/face_smiling20220119222244.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "special_menu",
+            "count": 6,
+            "displayName": "특별한 메뉴가 있어요",
+            "iconCode": "cook",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/cook20220119222024.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "price_worthy",
+            "count": 5,
+            "displayName": "비싼 만큼 가치있어요",
+            "iconCode": "gem_stone",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/gem_stone20220119222239.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "dessert_good",
+            "count": 4,
+            "displayName": "디저트가 맛있어요",
+            "iconCode": "cake",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/cake20220119222226.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "custom_good",
+            "count": 3,
+            "displayName": "주문제작을 잘해줘요",
+            "iconCode": "clipboard",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/clipboard20220119222236.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "spacious",
+            "count": 3,
+            "displayName": "매장이 넓어요",
+            "iconCode": "eyes",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/eyes20220119222026.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "price_cheap",
+            "count": 2,
+            "displayName": "가성비가 좋아요",
+            "iconCode": "coin",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/coin20220119222025.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "view_good",
+            "count": 2,
+            "displayName": "뷰가 좋아요",
+            "iconCode": "framed_picture",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/framed_picture20220119222027.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "comfy",
+            "count": 1,
+            "displayName": "좌석이 편해요",
+            "iconCode": "couch",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/couch20220119222228.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "concept_unique",
+            "count": 1,
+            "displayName": "컨셉이 독특해요",
+            "iconCode": "light_bulb",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/light_bulb20220119222315.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "food_fast",
+            "count": 1,
+            "displayName": "음식이 빨리 나와요",
+            "iconCode": "stopwatch",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/stopwatch20220119222225.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "food_good",
+            "count": 1,
+            "displayName": "음식이 맛있어요",
+            "iconCode": "face_savoring_food",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/face_savoring_food20220119222022.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "fresh",
+            "count": 1,
+            "displayName": "재료가 신선해요",
+            "iconCode": "leaf",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/leaf20220119222023.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "music_good",
+            "count": 1,
+            "displayName": "음악이 좋아요",
+            "iconCode": "musical_note",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/musical_note20220119222233.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "room_nice",
+            "count": 1,
+            "displayName": "룸이 잘 되어있어요",
+            "iconCode": "room",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/room20220325175453.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "special_day",
+            "count": 1,
+            "displayName": "특별한 날 가기 좋아요",
+            "iconCode": "bouquet",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/bouquet20220119222223.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "tea_good",
+            "count": 1,
+            "displayName": "차가 맛있어요",
+            "iconCode": "tea",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/tea20220119222229.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "toilet_clean",
+            "count": 1,
+            "displayName": "화장실이 깨끗해요",
+            "iconCode": "restroom",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/restroom20220119222222.png",
+            "previousRank": null
+          },
+          {
+            "__typename": "VisitorReviewStatsAnalysisVoteKeywordDetail",
+            "category": null,
+            "code": "types_various",
+            "count": 1,
+            "displayName": "종류가 다양해요",
+            "iconCode": "green_heart",
+            "iconUrl": "https://ssl.pstatic.net/static/pup/emoji/green_heart20220119222224.png",
+            "previousRank": null
+          }
+        ],
+        "reviewCount": 106,
+        "totalCount": 355,
+        "userCount": 102
+      }
+    },
+    "id": 2046166522,
+    "name": null,
+    "ratingReviewsTotal": 4,
+    "review": {
+      "__typename": "VisitorReviewStats",
+      "authorCount": 0,
+      "avgRating": 0,
+      "imageReviewCount": 77,
+      "scores": [],
+      "totalCount": 107
+    },
+    "visitorReviewsTotal": 107
+  }
+}
