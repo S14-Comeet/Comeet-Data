@@ -8,11 +8,66 @@ data/final/ 폴더의 CSV 파일들을 SQL INSERT 문으로 변환합니다.
 import pandas as pd
 from pathlib import Path
 import re
+from collections import Counter
 
 # 경로 설정
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 DATA_DIR = PROJECT_ROOT / "data" / "final"
 OUTPUT_DIR = PROJECT_ROOT / "sql"
+
+# 커피 카테고리 정의
+COFFEE_CATEGORIES = ['핸드드립', '라떼', '콜드브루', '에스프레소', '아메리카노']
+
+# 메뉴 이름 기반 카테고리 분류 키워드
+CATEGORY_KEYWORDS = {
+    '핸드드립': ['핸드드립', '드립', '싱글오리진', 'single origin', 'pour over', '푸어오버',
+                '에티오피아', '케냐', '콜롬비아', '과테말라', '브라질', '게이샤', '예가체프'],
+    '라떼': ['라떼', 'latte', '라테', '카푸치노', 'cappuccino', '플랫화이트', 'flat white',
+            '바닐라라떼', '카라멜라떼', '헤이즐넛라떼', '모카', 'mocha'],
+    '콜드브루': ['콜드브루', 'cold brew', '더치', 'dutch', '더치커피'],
+    '에스프레소': ['에스프레소', 'espresso', '리스트레토', 'ristretto', '도피오', 'doppio',
+                 '마끼아또', '마키아토', 'macchiato', '아포가토', 'affogato', '콘파나'],
+    '아메리카노': ['아메리카노', 'americano', '롱블랙', 'long black']
+}
+
+
+def classify_menu_category(menu_name):
+    """메뉴 이름을 기반으로 카테고리 분류"""
+    if pd.isna(menu_name) or menu_name == '':
+        return None
+
+    menu_name_lower = str(menu_name).lower()
+
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        for keyword in keywords:
+            if keyword.lower() in menu_name_lower:
+                return category
+
+    return None
+
+
+def calculate_store_categories(menus_df):
+    """각 가게별 가장 많은 카테고리 계산"""
+    store_categories = {}
+
+    # 각 메뉴에 카테고리 할당
+    menus_df['classified_category'] = menus_df['name'].apply(classify_menu_category)
+
+    # 가게별로 카테고리 카운트
+    for store_id in menus_df['store_id'].unique():
+        store_menus = menus_df[menus_df['store_id'] == store_id]
+        categories = store_menus['classified_category'].dropna().tolist()
+
+        if categories:
+            # 가장 많이 나온 카테고리 선택
+            category_counts = Counter(categories)
+            most_common_category = category_counts.most_common(1)[0][0]
+            store_categories[store_id] = most_common_category
+        else:
+            # 카테고리가 없으면 기본값
+            store_categories[store_id] = '아메리카노'
+
+    return store_categories
 
 
 def escape_sql_string(value):
@@ -58,13 +113,22 @@ def generate_roasteries_sql(df):
     return "\n".join(lines)
 
 
-def generate_stores_sql(df):
-    """stores 테이블 INSERT 문 생성"""
+def generate_stores_sql(df, store_categories=None):
+    """stores 테이블 INSERT 문 생성
+
+    Args:
+        df: stores DataFrame
+        store_categories: 가게 ID -> 카테고리 매핑 딕셔너리
+    """
     lines = ["-- Stores", "INSERT INTO stores (id, roastery_id, owner_id, name, description, address, latitude, longitude, phone_number, category, thumbnail_url, open_time, close_time, average_rating, review_count, visit_count, is_closed) VALUES"]
     values = []
 
     for _, row in df.iterrows():
-        val = f"({format_value(row['id'], 'int')}, {format_value(row['roastery_id'], 'int')}, {format_value(row['owner_id'], 'int') if pd.notna(row.get('owner_id')) else 'NULL'}, {format_value(row['name'])}, {format_value(row['description'])}, {format_value(row['address'])}, {format_value(row['latitude'], 'float')}, {format_value(row['longitude'], 'float')}, {format_value(row['phone_number'])}, {format_value(row['category'])}, {format_value(row['thumbnail_url'])}, {format_value(row['open_time']) if pd.notna(row.get('open_time')) and row.get('open_time') != '' else 'NULL'}, {format_value(row['close_time']) if pd.notna(row.get('close_time')) and row.get('close_time') != '' else 'NULL'}, {format_value(row['average_rating'], 'float')}, {format_value(row['review_count'], 'int')}, {format_value(row['visit_count'], 'int')}, {format_value(row['is_closed'], 'bool')})"
+        # 메뉴 기반 카테고리 사용 (없으면 기본값 '아메리카노')
+        store_id = int(row['id'])
+        category = store_categories.get(store_id, '아메리카노') if store_categories else row['category']
+
+        val = f"({format_value(row['id'], 'int')}, {format_value(row['roastery_id'], 'int')}, {format_value(row['owner_id'], 'int') if pd.notna(row.get('owner_id')) else 'NULL'}, {format_value(row['name'])}, {format_value(row['description'])}, {format_value(row['address'])}, {format_value(row['latitude'], 'float')}, {format_value(row['longitude'], 'float')}, {format_value(row['phone_number'])}, {format_value(category)}, {format_value(row['thumbnail_url'])}, {format_value(row['open_time']) if pd.notna(row.get('open_time')) and row.get('open_time') != '' else 'NULL'}, {format_value(row['close_time']) if pd.notna(row.get('close_time')) and row.get('close_time') != '' else 'NULL'}, {format_value(row['average_rating'], 'float')}, {format_value(row['review_count'], 'int')}, {format_value(row['visit_count'], 'int')}, {format_value(row['is_closed'], 'bool')})"
         values.append(val)
 
     lines.append(",\n".join(values) + ";")
@@ -142,6 +206,16 @@ def main():
     sql_parts.append("SET FOREIGN_KEY_CHECKS = 0;")
     sql_parts.append("")
 
+    # 먼저 메뉴 데이터를 읽어서 가게별 카테고리 계산
+    print("0. 메뉴 기반 가게 카테고리 계산 중...")
+    menus_df = pd.read_csv(DATA_DIR / "menus.csv")
+    store_categories = calculate_store_categories(menus_df)
+
+    # 카테고리 분포 출력
+    category_distribution = Counter(store_categories.values())
+    print(f"   -> 카테고리 분포: {dict(category_distribution)}")
+    print("")
+
     # 1. Roasteries
     print("1. roasteries.csv 처리 중...")
     roasteries_df = pd.read_csv(DATA_DIR / "roasteries.csv")
@@ -149,10 +223,10 @@ def main():
     sql_parts.append("")
     print(f"   -> {len(roasteries_df)}개 레코드")
 
-    # 2. Stores
+    # 2. Stores (메뉴 기반 카테고리 적용)
     print("2. stores.csv 처리 중...")
     stores_df = pd.read_csv(DATA_DIR / "stores.csv")
-    sql_parts.append(generate_stores_sql(stores_df))
+    sql_parts.append(generate_stores_sql(stores_df, store_categories))
     sql_parts.append("")
     print(f"   -> {len(stores_df)}개 레코드")
 
@@ -163,9 +237,8 @@ def main():
     sql_parts.append("")
     print(f"   -> {len(beans_df)}개 레코드")
 
-    # 4. Menus
+    # 4. Menus (이미 위에서 읽었으므로 재사용)
     print("4. menus.csv 처리 중...")
-    menus_df = pd.read_csv(DATA_DIR / "menus.csv")
     sql_parts.append(generate_menus_sql(menus_df))
     sql_parts.append("")
     print(f"   -> {len(menus_df)}개 레코드")
