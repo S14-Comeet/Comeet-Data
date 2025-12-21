@@ -15,30 +15,71 @@ PROJECT_ROOT = Path(__file__).parent.parent.parent
 DATA_DIR = PROJECT_ROOT / "data" / "final"
 OUTPUT_DIR = PROJECT_ROOT / "sql"
 
-# 커피 카테고리 정의
-COFFEE_CATEGORIES = ['핸드드립', '라떼', '콜드브루', '에스프레소', '아메리카노']
+# ============================================================================
+# Category enum 정의 (Java enum과 동일)
+# ============================================================================
+# HAND_DRIP("핸드드립"), ESPRESSO("에스프레소"), AMERICANO("아메리카노"),
+# LATTE("라떼"), CAPPUCCINO("카푸치노"), FLAT_WHITE("플랫화이트"), COLD_BREW("콜드브루")
+# ============================================================================
 
-# 메뉴 이름 기반 카테고리 분류 키워드
-CATEGORY_KEYWORDS = {
-    '핸드드립': ['핸드드립', '드립', '싱글오리진', 'single origin', 'pour over', '푸어오버',
-                '에티오피아', '케냐', '콜롬비아', '과테말라', '브라질', '게이샤', '예가체프'],
-    '라떼': ['라떼', 'latte', '라테', '카푸치노', 'cappuccino', '플랫화이트', 'flat white',
-            '바닐라라떼', '카라멜라떼', '헤이즐넛라떼', '모카', 'mocha'],
-    '콜드브루': ['콜드브루', 'cold brew', '더치', 'dutch', '더치커피'],
-    '에스프레소': ['에스프레소', 'espresso', '리스트레토', 'ristretto', '도피오', 'doppio',
-                 '마끼아또', '마키아토', 'macchiato', '아포가토', 'affogato', '콘파나'],
-    '아메리카노': ['아메리카노', 'americano', '롱블랙', 'long black']
-}
+COFFEE_CATEGORIES = ['HAND_DRIP', 'ESPRESSO', 'AMERICANO', 'LATTE', 'CAPPUCCINO', 'FLAT_WHITE', 'COLD_BREW']
+
+# 메뉴 이름 기반 카테고리 분류 키워드 (우선순위 순서)
+# 주의: FLAT_WHITE, CAPPUCCINO는 LATTE보다 먼저 체크해야 함
+CATEGORY_RULES = [
+    # 1. FLAT_WHITE (라떼보다 먼저)
+    ('FLAT_WHITE', ['플랫화이트', '플랫 화이트', 'flat white', 'flatwhite']),
+
+    # 2. CAPPUCCINO (라떼보다 먼저)
+    ('CAPPUCCINO', ['카푸치노', 'cappuccino']),
+
+    # 3. COLD_BREW
+    ('COLD_BREW', ['콜드브루', 'cold brew', '콜드 브루', '더치커피', '더치 커피']),
+
+    # 4. HAND_DRIP (스페셜티 포함)
+    ('HAND_DRIP', [
+        '핸드드립', '핸드 드립', 'hand drip', '드립커피', '드립 커피',
+        '브루잉', 'brewing', '푸어오버', 'pour over', 'pourover',
+        '하리오', 'hario', 'v60', '케멕스', 'chemex',
+        '싱글오리진', 'single origin', '싱글 오리진',
+        # 원산지명 (스페셜티 싱글오리진)
+        '에티오피아', '케냐', '콜롬비아', '과테말라', '브라질',
+        '코스타리카', '파나마', '게이샤', 'gesha', 'geisha',
+        '예가체프', 'yirgacheffe',
+        # 스페셜티 키워드
+        '스페셜티', 'specialty',
+    ]),
+
+    # 5. ESPRESSO (아인슈페너 포함)
+    ('ESPRESSO', [
+        '에스프레소', 'espresso',
+        '아인슈페너', 'einspanner', '슈페너',
+        '리스트레토', 'ristretto', '도피오', 'doppio',
+        '마끼아또', '마키아또', '마키아토', 'macchiato',
+        '아포가토', 'affogato', '콘파나', 'con panna',
+        '비엔나커피', '비엔나 커피',
+    ]),
+
+    # 6. AMERICANO
+    ('AMERICANO', ['아메리카노', 'americano', '롱블랙', 'long black']),
+
+    # 7. LATTE (가장 마지막)
+    ('LATTE', ['라떼', '라테', 'latte', '카페라떼', 'cafe latte', '모카', 'mocha']),
+]
+
+# 레거시 호환용 (stores.category에 사용)
+CATEGORY_KEYWORDS = {cat: keywords for cat, keywords in CATEGORY_RULES}
 
 
 def classify_menu_category(menu_name):
-    """메뉴 이름을 기반으로 카테고리 분류"""
+    """메뉴 이름을 기반으로 카테고리 분류 (우선순위 기반)"""
     if pd.isna(menu_name) or menu_name == '':
         return None
 
     menu_name_lower = str(menu_name).lower()
 
-    for category, keywords in CATEGORY_KEYWORDS.items():
+    # 우선순위 순서대로 체크 (CATEGORY_RULES 순서)
+    for category, keywords in CATEGORY_RULES:
         for keyword in keywords:
             if keyword.lower() in menu_name_lower:
                 return category
@@ -64,8 +105,8 @@ def calculate_store_categories(menus_df):
             most_common_category = category_counts.most_common(1)[0][0]
             store_categories[store_id] = most_common_category
         else:
-            # 카테고리가 없으면 기본값
-            store_categories[store_id] = '아메리카노'
+            # 카테고리가 없으면 기본값 (enum 값)
+            store_categories[store_id] = 'AMERICANO'
 
     return store_categories
 
@@ -124,9 +165,9 @@ def generate_stores_sql(df, store_categories=None):
     values = []
 
     for _, row in df.iterrows():
-        # 메뉴 기반 카테고리 사용 (없으면 기본값 '아메리카노')
+        # 메뉴 기반 카테고리 사용 (없으면 기본값 'AMERICANO')
         store_id = int(row['id'])
-        category = store_categories.get(store_id, '아메리카노') if store_categories else row['category']
+        category = store_categories.get(store_id, 'AMERICANO') if store_categories else row['category']
 
         val = f"({format_value(row['id'], 'int')}, {format_value(row['roastery_id'], 'int')}, {format_value(row['owner_id'], 'int') if pd.notna(row.get('owner_id')) else 'NULL'}, {format_value(row['name'])}, {format_value(row['description'])}, {format_value(row['address'])}, {format_value(row['latitude'], 'float')}, {format_value(row['longitude'], 'float')}, {format_value(row['phone_number'])}, {format_value(category)}, {format_value(row['thumbnail_url'])}, {format_value(row['open_time']) if pd.notna(row.get('open_time')) and row.get('open_time') != '' else 'NULL'}, {format_value(row['close_time']) if pd.notna(row.get('close_time')) and row.get('close_time') != '' else 'NULL'}, {format_value(row['average_rating'], 'float')}, {format_value(row['review_count'], 'int')}, {format_value(row['visit_count'], 'int')}, {format_value(row['is_closed'], 'bool')})"
         values.append(val)
@@ -149,7 +190,7 @@ def generate_beans_sql(df):
 
 
 def generate_menus_sql(df):
-    """menus 테이블 INSERT 문 생성"""
+    """menus 테이블 INSERT 문 생성 (카테고리 자동 분류 적용)"""
     lines = ["-- Menus", "INSERT INTO menus (id, store_id, name, description, price, category, image_url) VALUES"]
     values = []
 
@@ -159,7 +200,10 @@ def generate_menus_sql(df):
         if pd.isna(price) or price == '' or price == 0:
             price = 0
 
-        val = f"({format_value(row['id'], 'int')}, {format_value(row['store_id'], 'int')}, {format_value(row['name'])}, {format_value(row['description'])}, {format_value(price, 'int')}, {format_value(row['category'])}, {format_value(row['image_url'])})"
+        # 카테고리 자동 분류 (이미 분류되어 있으면 사용, 없으면 분류)
+        category = row.get('classified_category') or classify_menu_category(row['name'])
+
+        val = f"({format_value(row['id'], 'int')}, {format_value(row['store_id'], 'int')}, {format_value(row['name'])}, {format_value(row['description'])}, {format_value(price, 'int')}, {format_value(category)}, {format_value(row['image_url'])})"
         values.append(val)
 
     lines.append(",\n".join(values) + ";")
