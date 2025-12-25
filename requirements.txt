@@ -1,0 +1,13 @@
+# Cochelin-Data Dependencies
+# Python 3.9+ required
+
+# Data Processing
+pandas>=2.0.0
+
+# Web Crawling
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# LLM Processing (for 2_process_beans.py)
+langchain>=0.3.0
+langchain-openai>=0.2.0
